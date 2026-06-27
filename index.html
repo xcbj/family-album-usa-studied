@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>走遍美国 · 精讲版 | Family Album U.S.A.</title>
+  <meta name="description" content="《走遍美国》(Family Album U.S.A.) 英语学习增强版：26 集完整台词、逐句中文翻译、音频同步高亮、全局搜索，纯前端无后端，开箱即用。" />
+  <meta name="keywords" content="走遍美国, Family Album USA, 英语学习, 英语听力, 台词, 中文翻译, 在线学习" />
+  <meta name="author" content="Family Album USA Enhanced" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23ffffff' stroke='%23ececec'/%3E%3Ctext x='16' y='22' font-size='14' text-anchor='middle' fill='%232563eb' font-family='sans-serif' font-weight='600'%3EUS%3C/text%3E%3C/svg%3E" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="走遍美国 · 精讲版" />
+  <meta property="og:description" content="26 集完整台词、逐句中文翻译、音频同步高亮，纯前端无后端。" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="zh_CN" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="走遍美国 · 精讲版" />
+  <meta name="twitter:description" content="26 集完整台词、逐句中文翻译、音频同步高亮，纯前端无后端。" />
+
+  <script>
+    // 早期恢复主题/字号，避免暗色模式白闪
+    try {
+      var t = localStorage.getItem('faus-theme');
+      if (t) document.documentElement.setAttribute('data-theme', t);
+      var f = localStorage.getItem('faus-fontsize');
+      if (f) document.documentElement.setAttribute('data-fontsize', f);
+    } catch(e) {}
+  </script>
+  <style>
+    /* ─── Design Tokens ─── */
+    :root {
+      --bg:            #ffffff;
+      --bg-subtle:     #fafafa;
+      --bg-muted:      #f5f5f5;
+      --border:        #ececec;
+      --border-strong: #d4d4d4;
+      --text:          #18181b;
+      --text-2:        #52525b;
+      --text-3:        #a1a1aa;
+      --accent:        #2563eb;
+      --accent-soft:   #eff6ff;
+      --highlight:     #f59e0b;
+      --highlight-soft:#fef3c7;
+      --green:         #16a34a;
+      --danger:        #dc2626;
+      --danger-soft:   #fef2f2;
+      --radius:        8px;
+      --radius-sm:     4px;
+      --shadow:        0 8px 32px rgba(0,0,0,.12);
+      --transition:    .15s cubic-bezier(.4,0,.2,1);
+
+      /* font scale: small / normal / large */
+      --fs-en:         15px;
+      --fs-cn:         13px;
+    }
+
+    [data-theme="dark"] {
+      --bg:            #0f1117;
+      --bg-subtle:     #1a1d27;
+      --bg-muted:      #22263a;
+      --border:        #2e3248;
+      --border-strong: #3a3f5a;
+      --text:          #e8eaf6;
+      --text-2:        #8b90b8;
+      --text-3:        #555a7a;
+      --accent:        #6c8ef5;
+      --accent-soft:   rgba(108,142,245,.12);
+      --highlight:     #f5c842;
+      --highlight-soft:rgba(245,200,66,.12);
+      --green:         #4ade80;
+      --danger:        #f87171;
+      --danger-soft:   rgba(248,113,113,.10);
+      --shadow:        0 8px 32px rgba(0,0,0,.5);
+    }
+
+    [data-fontsize="small"] { --fs-en: 13px; --fs-cn: 11px; }
+    [data-fontsize="normal"] { --fs-en: 15px; --fs-cn: 13px; }
+    [data-fontsize="large"] { --fs-en: 17px; --fs-cn: 15px; }
+
+    /* ─── Reset ─── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    button { font-family: inherit; }
+
+    /* ─── Layout ─── */
+    .app { display: flex; flex-direction: column; min-height: 100vh; }
+
+    /* ─── Header ─── */
+    .header {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(255,255,255,.85);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      display: flex; align-items: center; gap: 12px;
+      height: 56px;
+    }
+    .header-logo {
+      font-size: 15px; font-weight: 600;
+      color: var(--text);
+      white-space: nowrap;
+      letter-spacing: -.01em;
+    }
+    .header-logo span { color: var(--text-3); font-weight: 400; font-size: 12px; margin-left: 8px; }
+    .header-spacer { flex: 1; }
+    .header-controls { display: flex; align-items: center; gap: 8px; }
+
+    /* ─── Buttons ─── */
+    .btn {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 6px 12px; border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      background: var(--bg); color: var(--text-2);
+      font-size: 13px; cursor: pointer;
+      transition: var(--transition);
+      white-space: nowrap;
+    }
+    .btn:hover { border-color: var(--border-strong); color: var(--text); background: var(--bg-subtle); }
+    .btn.active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+    .btn svg { width: 14px; height: 14px; }
+
+    .icon-btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 32px; height: 32px; border-radius: var(--radius-sm);
+      border: 1px solid transparent; background: transparent;
+      color: var(--text-2); cursor: pointer;
+      transition: var(--transition);
+    }
+    .icon-btn:hover { background: var(--bg-muted); color: var(--text); }
+    .icon-btn svg { width: 18px; height: 18px; }
+
+    /* ─── Speed Control ─── */
+    .speed-control {
+      display: inline-flex; align-items: center; gap: 2px;
+      padding: 2px; border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      background: var(--bg);
+    }
+    .speed-btn {
+      padding: 3px 9px; border-radius: 3px;
+      border: none; background: transparent;
+      color: var(--text-3); font-size: 11px; font-weight: 500;
+      cursor: pointer; transition: var(--transition);
+      font-variant-numeric: tabular-nums;
+    }
+    .speed-btn:hover { color: var(--text); }
+    .speed-btn.active { background: var(--text); color: var(--bg); }
+
+    /* ─── Main ─── */
+    .main { display: flex; flex: 1; overflow: hidden; }
+
+    /* ─── Content ─── */
+    .content-wrap { flex: 1; overflow-y: auto; }
+    .content {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 48px 56px 120px;
+    }
+    .home-content { max-width: 1040px; padding: 40px 40px 120px; }
+
+    /* ─── Home: Episode Cards Grid ─── */
+    .home-title {
+      font-size: 24px; font-weight: 600; color: var(--text);
+      letter-spacing: -.01em; margin-bottom: 4px;
+    }
+    .home-subtitle { font-size: 13px; color: var(--text-3); margin-bottom: 28px; }
+    .episode-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 14px;
+    }
+    .episode-card {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 18px;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex; flex-direction: column; gap: 6px;
+      position: relative;
+      overflow: hidden;
+    }
+    .episode-card:hover {
+      border-color: var(--accent);
+      box-shadow: 0 4px 12px rgba(0,0,0,.06);
+      transform: translateY(-1px);
+    }
+    .episode-card .card-num {
+      font-size: 11px; font-weight: 600; color: var(--accent);
+      letter-spacing: .04em;
+    }
+    .episode-card .card-title-cn {
+      font-size: var(--fs-en); font-weight: 600; color: var(--text);
+      line-height: 1.3;
+    }
+    .episode-card .card-title-en {
+      font-size: var(--fs-cn); color: var(--text-3);
+      line-height: 1.3;
+    }
+    body.hide-cn .episode-card .card-title-cn { display: none; }
+    .episode-card .card-meta {
+      font-size: 11px; color: var(--text-3);
+      margin-top: 4px;
+      display: flex; gap: 10px;
+    }
+
+    /* ─── Detail: Top Bar (back + title + prev/next) ─── */
+    .detail-topbar {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border);
+    }
+    .detail-back {
+      display: inline-flex; align-items: center; gap: 4px;
+      padding: 6px 12px; border-radius: var(--radius-sm);
+      border: 1px solid var(--border); background: var(--bg);
+      color: var(--text-2); font-size: 13px; cursor: pointer;
+      transition: var(--transition); white-space: nowrap;
+    }
+    .detail-back:hover { border-color: var(--border-strong); color: var(--text); background: var(--bg-subtle); }
+    .detail-title-block { flex: 1; min-width: 0; }
+    .detail-title-block .dt-main {
+      font-size: 17px; font-weight: 600; color: var(--text);
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .detail-title-block .dt-main .en { color: var(--text-3); font-size: 13px; font-weight: 400; margin-left: 8px; }
+    .detail-title-block .dt-sub { font-size: 12px; color: var(--text-3); margin-top: 2px; }
+    .detail-nav-btn {
+      padding: 6px 12px; border-radius: var(--radius-sm);
+      border: 1px solid var(--border); background: var(--bg);
+      color: var(--text-2); font-size: 13px; cursor: pointer;
+      transition: var(--transition); white-space: nowrap;
+    }
+    .detail-nav-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+    .detail-nav-btn:disabled { opacity: .4; cursor: not-allowed; }
+
+    /* ─── Detail: Act Tabs ─── */
+    .act-tabs {
+      display: flex; gap: 6px; margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+    .act-tab {
+      padding: 6px 14px; border-radius: var(--radius-sm);
+      border: 1px solid var(--border); background: var(--bg);
+      color: var(--text-2); font-size: 13px; cursor: pointer;
+      transition: var(--transition);
+      display: inline-flex; align-items: center; gap: 6px;
+    }
+    .act-tab:hover { border-color: var(--border-strong); color: var(--text); }
+    .act-tab.active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+    .act-tab .at-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--green); }
+    .act-tab .at-dot.no-audio { background: var(--text-3); opacity: .5; }
+
+    /* ─── Episode Header ─── */
+    .episode-header { margin-bottom: 36px; }
+    .episode-header h1 {
+      font-size: 26px; font-weight: 600;
+      color: var(--text); letter-spacing: -.02em;
+      line-height: 1.3;
+    }
+    .episode-header h1 .en { color: var(--text-3); font-size: 16px; font-weight: 400; margin-left: 10px; }
+    .episode-header .title-cn { font-size: 14px; color: var(--text-2); margin-top: 4px; }
+    .episode-summary {
+      margin-top: 16px;
+      font-size: 13.5px; color: var(--text-2);
+      line-height: 1.75;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+    }
+    .episode-summary-label {
+      font-size: 10px; font-weight: 600; letter-spacing: .05em;
+      color: var(--text-3); text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+
+    /* ─── Act Block ─── */
+    .act-block { margin-bottom: 56px; }
+    .act-header {
+      display: flex; align-items: center; gap: 10px;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .act-label {
+      font-size: 11px; font-weight: 600; letter-spacing: .05em;
+      color: var(--text); text-transform: uppercase;
+    }
+    .act-audio-badge {
+      font-size: 10px; color: var(--green);
+      background: rgba(22,163,74,.08);
+      padding: 2px 8px; border-radius: 10px;
+      display: inline-flex; align-items: center; gap: 4px;
+      font-weight: 500;
+    }
+    .act-audio-badge::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: var(--green); }
+
+    /* ─── Audio Player ─── */
+    .audio-player {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px 14px;
+      margin-bottom: 16px;
+      display: flex; align-items: center; gap: 12px;
+      flex-wrap: wrap;
+    }
+    .audio-player audio {
+      flex: 1; min-width: 220px;
+      height: 36px;
+    }
+    .audio-error {
+      display: none;
+      padding: 8px 12px; margin-top: 8px;
+      background: var(--danger-soft); color: var(--danger);
+      border-radius: var(--radius-sm);
+      font-size: 12px;
+      width: 100%;
+    }
+    .audio-error.show { display: block; }
+    .audio-error code { background: rgba(220,38,38,.1); padding: 1px 5px; border-radius: 3px; font-size: 11px; }
+
+    /* ─── Lines ─── */
+    .lines-container { display: flex; flex-direction: column; gap: 1px; }
+    .line-item {
+      display: grid;
+      grid-template-columns: 40px 1fr;
+      gap: 0 14px;
+      padding: 9px 14px 9px 12px;
+      border-radius: var(--radius-sm);
+      transition: background var(--transition), color var(--transition);
+      border-left: 2px solid transparent;
+      margin-left: -2px;
+    }
+    .line-item:hover { background: var(--bg-subtle); }
+    .line-time {
+      font-size: 11px; color: var(--text-3);
+      font-variant-numeric: tabular-nums;
+      padding-top: 3px;
+      white-space: nowrap;
+    }
+    .line-texts { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+    .line-en {
+      font-size: var(--fs-en); color: var(--text);
+      line-height: 1.5;
+    }
+    .line-cn {
+      font-size: var(--fs-cn); color: var(--text-2);
+      line-height: 1.5;
+      display: none;
+    }
+    .line-cn.visible { display: block; }
+    .line-cn.empty { color: var(--text-3); font-style: italic; font-size: 12px; }
+
+    /* ─── Search ─── */
+    .search-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,.25); z-index: 250;
+      align-items: flex-start; justify-content: center;
+      padding-top: 80px;
+    }
+    .search-overlay.open { display: flex; }
+    .search-box {
+      width: 92%; max-width: 600px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    .search-input-wrap {
+      display: flex; align-items: center; gap: 10px;
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--border);
+    }
+    .search-input-wrap svg { width: 18px; height: 18px; color: var(--text-3); flex-shrink: 0; }
+    .search-input {
+      flex: 1; background: transparent; border: none; outline: none;
+      color: var(--text); font-size: 15px;
+    }
+    .search-input::placeholder { color: var(--text-3); }
+    .search-results { max-height: 60vh; overflow-y: auto; }
+    .search-result-item {
+      padding: 11px 16px; cursor: pointer;
+      border-bottom: 1px solid var(--border);
+      transition: var(--transition);
+    }
+    .search-result-item:hover, .search-result-item.focused { background: var(--bg-subtle); }
+    .search-result-meta { font-size: 11px; color: var(--text-3); margin-bottom: 4px; }
+    .search-result-en { font-size: 13.5px; color: var(--text); margin-bottom: 2px; line-height: 1.4; }
+    .search-result-cn { font-size: 12px; color: var(--text-2); line-height: 1.4; }
+    .search-result-mark { background: var(--highlight-soft); color: var(--text); padding: 0 2px; border-radius: 2px; }
+    .search-empty { padding: 36px 16px; text-align: center; color: var(--text-3); font-size: 13px; }
+    .search-hint { padding: 10px 16px; font-size: 11px; color: var(--text-3); border-top: 1px solid var(--border); }
+    .search-footer { padding: 8px 16px; font-size: 11px; color: var(--text-3); border-top: 1px solid var(--border); display: flex; justify-content: space-between; }
+
+    /* ─── Scrollbar ─── */
+    ::-webkit-scrollbar { width: 8px; height: 8px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--border-strong); }
+
+    /* ─── Loading ─── */
+    .loading {
+      display: flex; align-items: center; justify-content: center;
+      height: 240px; color: var(--text-3); font-size: 14px;
+    }
+
+    /* ─── Mobile elements (hidden on desktop by default, overridden in media queries) ─── */
+    .mobile-only, .mobile-nav { display: none; }
+
+    /* ─── Responsive ─── */
+    @media (max-width: 900px) {
+      .content { padding: 32px 32px 100px; }
+      .home-content { padding: 28px 24px 100px; }
+      .episode-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
+    }
+
+    @media (max-width: 768px) {
+      .content { padding: 20px 20px 90px; max-width: 100%; }
+      .home-content { padding: 20px 16px 90px; }
+      .episode-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+      .header { padding: 0 16px; height: 52px; }
+      .header-logo { font-size: 14px; }
+      .header-logo span { display: none; }
+      .desktop-only { display: none !important; }
+      .mobile-only { display: flex; }
+      .detail-topbar { flex-wrap: wrap; gap: 8px; }
+      .detail-title-block { order: 3; flex-basis: 100%; }
+      .detail-nav-btn { padding: 5px 10px; font-size: 12px; }
+
+      /* Mobile bottom nav */
+      .mobile-nav {
+        display: flex !important;
+        position: fixed; bottom: 0; left: 0; right: 0;
+        background: rgba(255,255,255,.92);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border-top: 1px solid var(--border);
+        z-index: 200;
+        padding: 6px 0 env(safe-area-inset-bottom, 6px);
+      }
+      [data-theme="dark"] .mobile-nav { background: rgba(15,17,23,.92); }
+      .mobile-nav-btn {
+        flex: 1; display: flex; flex-direction: column; align-items: center; gap: 2px;
+        background: none; border: none; color: var(--text-3);
+        font-size: 10px; cursor: pointer; padding: 4px;
+        transition: var(--transition);
+      }
+      .mobile-nav-btn.active { color: var(--accent); }
+      .mobile-nav-btn svg { width: 20px; height: 20px; }
+    }
+    }
+
+  </style>
+</head>
+<body>
+<div class="app">
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-logo">走遍美国 <span>Family Album U.S.A.</span></div>
+    <div class="header-spacer"></div>
+    <div class="header-controls">
+      <button class="btn desktop-only" onclick="openSearch()" title="搜索 (Ctrl/Cmd+K)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        搜索
+      </button>
+      <div class="speed-control desktop-only" title="字号">
+        <button class="speed-btn" data-fs="small" onclick="setFontSize('small')">小</button>
+        <button class="speed-btn active" data-fs="normal" onclick="setFontSize('normal')">中</button>
+        <button class="speed-btn" data-fs="large" onclick="setFontSize('large')">大</button>
+      </div>
+      <button class="icon-btn desktop-only" onclick="toggleTheme()" id="btn-theme" title="切换主题" aria-label="切换主题">
+        <svg id="icon-theme" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+      <button class="btn desktop-only active" id="btn-cn-desktop" onclick="toggleChinese()">
+        <span id="btn-cn-label">隐藏翻译</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="main">
+
+    <!-- Home View: episode cards grid -->
+    <div class="content-wrap" id="home-wrap">
+      <main class="content home-content" id="home-content">
+        <div class="loading">加载中…</div>
+      </main>
+    </div>
+
+    <!-- Detail View: single episode + act -->
+    <div class="content-wrap" id="detail-wrap" style="display:none;">
+      <main class="content detail-content" id="content">
+        <div class="loading">加载中…</div>
+      </main>
+    </div>
+
+  </div>
+
+  <!-- Mobile Bottom Navigation -->
+  <nav class="mobile-nav" id="mobile-nav">
+    <button class="mobile-nav-btn active" data-page="home" onclick="mobileNav('home', this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      首页
+    </button>
+    <button class="mobile-nav-btn" data-page="search" onclick="mobileNav('search', this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      搜索
+    </button>
+    <button class="mobile-nav-btn" data-page="theme" onclick="mobileNav('theme', this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      主题
+    </button>
+    <button class="mobile-nav-btn" data-page="translate" onclick="mobileNav('translate', this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 5h7"/><path d="M9 3v2c0 4.418-2.239 8-5 8"/><path d="M5 9c0 2.144 2.952 3.908 6.7 4"/><path d="M12 20l4-9 4 9"/><path d="M19.1 18h-6.2"/></svg>
+      <span id="mobile-nav-cn-label">隐藏翻译</span>
+    </button>
+  </nav>
+
+  <!-- Search Overlay -->
+  <div class="search-overlay" id="search-overlay" onclick="closeSearchOnOverlay(event)">
+    <div class="search-box" onclick="event.stopPropagation()">
+      <div class="search-input-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        <input type="text" class="search-input" id="search-input" placeholder="搜索英文台词、中文翻译或集名…" oninput="doSearch(this.value)" />
+        <button class="btn" onclick="closeSearch()" style="padding:4px 10px;font-size:11px;">Esc</button>
+      </div>
+      <div class="search-results" id="search-results">
+        <div class="search-empty">输入关键词搜索所有 26 集内容</div>
+      </div>
+      <div class="search-footer">
+        <span>支持英文、中文、集名</span>
+        <span id="search-count"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ─── State ─── */
+let data = null;
+let showChinese = true;
+let currentEpisodeIdx = 0;
+let currentActIdx = 0;
+let currentPlaybackRate = 1;
+let searchFocusedIdx = -1;
+let searchResultsCache = [];
+
+const SPEED_OPTIONS = [0.75, 1, 1.25, 1.5];
+
+/* ─── Helpers ─── */
+function formatTime(sec) {
+  const m = Math.floor(sec / 60);
+  const s = Math.floor(sec % 60);
+  return `${m}:${s.toString().padStart(2, '0')}`;
+}
+
+function escapeHtml(s) {
+  if (s == null) return '';
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function highlightMatch(text, query) {
+  if (!query) return escapeHtml(text);
+  const escaped = escapeHtml(text);
+  const safeQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return escaped.replace(new RegExp(safeQuery, 'gi'), m => `<span class="search-result-mark">${m}</span>`);
+}
+
+function updateTranslateLabels() {
+  const text = showChinese ? '隐藏翻译' : '显示翻译';
+  const desktopLabel = document.getElementById('btn-cn-label');
+  if (desktopLabel) desktopLabel.textContent = text;
+  const mobileLabel = document.getElementById('mobile-nav-cn-label');
+  if (mobileLabel) mobileLabel.textContent = text;
+  const desktopBtn = document.getElementById('btn-cn-desktop');
+  if (desktopBtn) desktopBtn.classList.toggle('active', showChinese);
+}
+
+/* ─── Toggle Chinese ─── */
+function toggleChinese() {
+  showChinese = !showChinese;
+  document.querySelectorAll('.line-cn').forEach(el => {
+    el.classList.toggle('visible', showChinese && !el.classList.contains('empty'));
+  });
+  document.body.classList.toggle('hide-cn', !showChinese);
+  updateTranslateLabels();
+}
+
+/* ─── View Switching ─── */
+function showHome() {
+  document.getElementById('home-wrap').style.display = '';
+  document.getElementById('detail-wrap').style.display = 'none';
+  document.getElementById('home-wrap').scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function showDetail() {
+  document.getElementById('home-wrap').style.display = 'none';
+  document.getElementById('detail-wrap').style.display = '';
+  document.getElementById('detail-wrap').scrollTo({ top: 0 });
+}
+
+/* ─── Home: Episode Cards ─── */
+function renderHome() {
+  const c = document.getElementById('home-content');
+  let html = `
+    <div class="home-title">走遍美国 · Family Album U.S.A.</div>
+    <div class="home-subtitle">26 集完整台词 · 逐句中文翻译 · 音频同步 · 共 ${data.episodes.length} 集</div>
+    <div class="episode-grid">
+  `;
+  data.episodes.forEach((ep, ei) => {
+    const lineCount = ep.acts.reduce((s, a) => s + a.lines.length, 0);
+    const audioCount = ep.acts.filter(a => a.hasAudio !== false && a.audio).length;
+    html += `
+      <div class="episode-card" onclick="openEpisode(${ei})">
+        <div class="card-num">第 ${ep.id} 集</div>
+        <div class="card-title-cn">${escapeHtml(ep.titleCn)}</div>
+        <div class="card-title-en">${escapeHtml(ep.title)}</div>
+        <div class="card-meta">
+          <span>${lineCount} 句</span>
+          <span>${audioCount}/${ep.acts.length} 音频</span>
+        </div>
+      </div>
+    `;
+  });
+  html += `</div>`;
+  c.innerHTML = html;
+}
+
+/* ─── Open Episode (with hash routing) ─── */
+/* ─── Open Episode ───
+ * 从首页进入详情：pushState（新增历史记录，后退能回首页）
+ * 详情页之间切换：replaceState（替换当前记录，后退一次回首页） */
+function openEpisode(ei, ai) {
+  currentEpisodeIdx = ei;
+  currentActIdx = ai || 0;
+  const hash = `#ep${data.episodes[ei].id}`;
+  const inDetail = !!location.hash;
+  if (inDetail) {
+    history.replaceState({ ep: data.episodes[ei].id }, '', hash);
+  } else {
+    history.pushState({ ep: data.episodes[ei].id }, '', hash);
+  }
+  renderDetail();
+  showDetail();
+}
+
+function goHome() {
+  if (location.hash) {
+    // 清掉 hash 记录回到首页（不保留详情页历史）
+    history.pushState(null, '', location.pathname + location.search);
+    showHome();
+  } else {
+    showHome();
+  }
+}
+
+/* ─── Render Detail (episode + act tabs + lines) ─── */
+function renderDetail() {
+  const ep = data.episodes[currentEpisodeIdx];
+  const content = document.getElementById('content');
+
+  const prevEp = currentEpisodeIdx > 0 ? data.episodes[currentEpisodeIdx - 1] : null;
+  const nextEp = currentEpisodeIdx < data.episodes.length - 1 ? data.episodes[currentEpisodeIdx + 1] : null;
+
+  let html = `
+    <div class="detail-topbar">
+      <button class="detail-back" onclick="goHome()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        返回
+      </button>
+      <div class="detail-title-block">
+        <div class="dt-main">第 ${ep.id} 集 · ${escapeHtml(ep.titleCn)}<span class="en">${escapeHtml(ep.title)}</span></div>
+        <div class="dt-sub">${ep.acts.length} 幕</div>
+      </div>
+      <button class="detail-nav-btn" onclick="goPrevEpisode()" ${prevEp ? '' : 'disabled'}>← 上一集</button>
+      <button class="detail-nav-btn" onclick="goNextEpisode()" ${nextEp ? '' : 'disabled'}>下一集 →</button>
+    </div>
+  `;
+
+  // Act tabs
+  html += `<div class="act-tabs">`;
+  ep.acts.forEach((act, ai) => {
+    const dotClass = act.hasAudio !== false ? 'at-dot' : 'at-dot no-audio';
+    html += `
+      <div class="act-tab ${ai === currentActIdx ? 'active' : ''}" onclick="selectAct(${ai})">
+        <span class="${dotClass}"></span>
+        ${escapeHtml(act.label)}
+      </div>
+    `;
+  });
+  html += `</div>`;
+
+  // Current act content
+  const act = ep.acts[currentActIdx];
+  const ai = currentActIdx;
+  const hasAudio = act.hasAudio !== false && act.audio;
+  html += `<div class="act-block" id="act-block-${ai}">`;
+  html += `
+    <div class="act-header">
+      <span class="act-label">${escapeHtml(act.label)}</span>
+      ${hasAudio ? `<span class="act-audio-badge">含音频</span>` : ''}
+    </div>
+  `;
+  if (hasAudio) {
+    const speedBtns = SPEED_OPTIONS.map(r =>
+      `<button class="speed-btn ${r === currentPlaybackRate ? 'active' : ''}" onclick="setSpeed(${r})">${r}x</button>`
+    ).join('');
+    html += `
+      <div class="audio-player">
+        <audio id="audio-${ai}" controls preload="none" onerror="showAudioError(${ai})">
+          <source src="${act.audio}" type="audio/mpeg" />
+          您的浏览器不支持音频播放。
+        </audio>
+        <div class="speed-control">${speedBtns}</div>
+        <div class="audio-error" id="audio-error-${ai}">
+          ⚠ 音频加载失败，请检查 <code>${act.audio}</code> 是否存在。
+        </div>
+      </div>
+    `;
+  }
+
+  html += `<div class="lines-container" id="lines-${ai}">`;
+  act.lines.forEach((line, li) => {
+    const hasCn = line.cn && line.cn.trim();
+    const cnVisible = showChinese && hasCn ? 'visible' : '';
+    const cnClass = hasCn ? '' : 'empty';
+    const cnText = hasCn ? escapeHtml(line.cn) : '翻译待补';
+    html += `
+      <div class="line-item"
+           id="line-${ai}-${li}"
+           data-act="${ai}"
+           data-line="${li}">
+        <div class="line-time">${formatTime(line.t)}</div>
+        <div class="line-texts">
+          <div class="line-en">${escapeHtml(line.en)}</div>
+          <div class="line-cn ${cnVisible} ${cnClass}">${cnText}</div>
+        </div>
+      </div>
+    `;
+  });
+  html += `</div></div>`;
+
+  content.innerHTML = html;
+
+  if (hasAudio) {
+    const audioEl = document.getElementById(`audio-${ai}`);
+    if (audioEl) {
+      audioEl.playbackRate = currentPlaybackRate;
+    }
+  }
+}
+
+/* ─── Select Act (within current episode) ─── */
+function selectAct(ai) {
+  currentActIdx = ai;
+  renderDetail();
+  document.getElementById('detail-wrap').scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+/* ─── Prev / Next Episode ─── */
+function goPrevEpisode() {
+  if (currentEpisodeIdx > 0) openEpisode(currentEpisodeIdx - 1, 0);
+}
+function goNextEpisode() {
+  if (currentEpisodeIdx < data.episodes.length - 1) openEpisode(currentEpisodeIdx + 1, 0);
+}
+
+/* ─── Audio Error ─── */
+function showAudioError(ai) {
+  const el = document.getElementById(`audio-error-${ai}`);
+  if (el) el.classList.add('show');
+}
+
+/* ─── Speed Control ─── */
+function setSpeed(rate) {
+  currentPlaybackRate = rate;
+  document.querySelectorAll('.speed-btn').forEach(btn => {
+    btn.classList.toggle('active', parseFloat(btn.textContent) === rate);
+  });
+  document.querySelectorAll('audio').forEach(a => { a.playbackRate = rate; });
+}
+
+/* ─── Search ─── */
+function openSearch() {
+  document.getElementById('search-overlay').classList.add('open');
+  setTimeout(() => document.getElementById('search-input').focus(), 50);
+}
+
+function closeSearch() {
+  document.getElementById('search-overlay').classList.remove('open');
+  document.getElementById('search-input').value = '';
+  document.getElementById('search-results').innerHTML =
+    '<div class="search-empty">输入关键词搜索所有 26 集内容</div>';
+  document.getElementById('search-count').textContent = '';
+  searchFocusedIdx = -1;
+  searchResultsCache = [];
+}
+
+function closeSearchOnOverlay(e) {
+  if (e.target.id === 'search-overlay') closeSearch();
+}
+
+function doSearch(q) {
+  q = (q || '').trim();
+  const resultsEl = document.getElementById('search-results');
+  const countEl = document.getElementById('search-count');
+  searchFocusedIdx = -1;
+  if (!q) {
+    resultsEl.innerHTML = '<div class="search-empty">输入关键词搜索所有 26 集内容</div>';
+    countEl.textContent = '';
+    searchResultsCache = [];
+    return;
+  }
+  const lower = q.toLowerCase();
+  const results = [];
+  for (let ei = 0; ei < data.episodes.length; ei++) {
+    const ep = data.episodes[ei];
+    for (let ai = 0; ai < ep.acts.length; ai++) {
+      const act = ep.acts[ai];
+      for (let li = 0; li < act.lines.length; li++) {
+        const line = act.lines[li];
+        const enMatch = (line.en || '').toLowerCase().includes(lower);
+        const cnMatch = (line.cn || '').toLowerCase().includes(lower);
+        if (enMatch || cnMatch) {
+          results.push({ ei, ai, li, line, ep, act });
+        }
+      }
+    }
+  }
+  searchResultsCache = results;
+  if (results.length === 0) {
+    resultsEl.innerHTML = `<div class="search-empty">未找到「${escapeHtml(q)}」相关内容</div>`;
+    countEl.textContent = '';
+    return;
+  }
+  const limit = 80;
+  const sliced = results.slice(0, limit);
+  let html = '';
+  sliced.forEach((r, i) => {
+    html += `
+      <div class="search-result-item" data-idx="${i}" onclick="searchJump(${r.ei}, ${r.ai}, ${r.li})">
+        <div class="search-result-meta">第 ${r.ep.id} 集 · ${escapeHtml(r.ep.titleCn)} · ${escapeHtml(r.act.label)}</div>
+        <div class="search-result-en">${highlightMatch(r.line.en, q)}</div>
+        ${r.line.cn ? `<div class="search-result-cn">${highlightMatch(r.line.cn, q)}</div>` : ''}
+      </div>
+    `;
+  });
+  if (results.length > limit) {
+    html += `<div class="search-hint" style="text-align:center;">共 ${results.length} 条，仅显示前 ${limit} 条，请细化关键词</div>`;
+  }
+  resultsEl.innerHTML = html;
+  countEl.textContent = `${results.length} 条结果`;
+}
+
+function searchJump(ei, ai, li) {
+  closeSearch();
+  openEpisode(ei, ai);
+  setTimeout(() => {
+    const el = document.getElementById(`line-${ai}-${li}`);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }, 120);
+}
+
+/* ─── Mobile Nav ─── */
+function mobileNav(page, btn) {
+  document.querySelectorAll('.mobile-nav-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+  if (page === 'home') {
+    goHome();
+  } else if (page === 'search') {
+    openSearch();
+  } else if (page === 'theme') {
+    toggleTheme();
+  } else if (page === 'translate') {
+    toggleChinese();
+  }
+}
+
+/* ─── Keyboard Shortcuts ─── */
+document.addEventListener('keydown', (e) => {
+  const overlay = document.getElementById('search-overlay');
+  if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+    e.preventDefault();
+    if (overlay.classList.contains('open')) closeSearch();
+    else openSearch();
+    return;
+  }
+  if (overlay.classList.contains('open')) {
+    if (e.key === 'Escape') {
+      closeSearch();
+    } else if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+      e.preventDefault();
+      if (searchResultsCache.length === 0) return;
+      const dir = e.key === 'ArrowDown' ? 1 : -1;
+      const visibleCount = Math.min(searchResultsCache.length, 80);
+      searchFocusedIdx = (searchFocusedIdx + dir + visibleCount) % visibleCount;
+      document.querySelectorAll('.search-result-item').forEach((el, i) => {
+        el.classList.toggle('focused', i === searchFocusedIdx);
+        if (i === searchFocusedIdx) el.scrollIntoView({ block: 'nearest' });
+      });
+    } else if (e.key === 'Enter' && searchFocusedIdx >= 0) {
+      const r = searchResultsCache[searchFocusedIdx];
+      if (r) searchJump(r.ei, r.ai, r.li);
+    }
+  }
+});
+
+/* ─── Font Size ─── */
+function setFontSize(size) {
+  document.documentElement.setAttribute('data-fontsize', size);
+  document.querySelectorAll('[data-fs]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.fs === size);
+  });
+  try { localStorage.setItem('faus-fontsize', size); } catch(e) {}
+}
+
+/* ─── Theme ─── */
+function toggleTheme() {
+  const cur = document.documentElement.getAttribute('data-theme') || 'light';
+  const next = cur === 'light' ? 'dark' : 'light';
+  setTheme(next);
+}
+
+function setTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  const icon = document.getElementById('icon-theme');
+  if (icon) {
+    icon.innerHTML = theme === 'dark'
+      ? '<circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>'
+      : '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>';
+  }
+  try { localStorage.setItem('faus-theme', theme); } catch(e) {}
+}
+
+function restorePrefs() {
+  let fs = 'normal';
+  let theme = 'light';
+  try {
+    fs = localStorage.getItem('faus-fontsize') || 'normal';
+    theme = localStorage.getItem('faus-theme') || 'light';
+  } catch(e) {}
+  document.documentElement.setAttribute('data-fontsize', fs);
+  document.documentElement.setAttribute('data-theme', theme);
+  document.querySelectorAll('[data-fs]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.fs === fs);
+  });
+  const icon = document.getElementById('icon-theme');
+  if (icon) {
+    icon.innerHTML = theme === 'dark'
+      ? '<circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>'
+      : '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>';
+  }
+}
+
+/* ─── Routing (popstate covers browser back/forward) ─── */
+function routeFromHash() {
+  const m = location.hash.match(/^#ep(\d+)/);
+  if (m) {
+    const epId = parseInt(m[1], 10);
+    const ei = data.episodes.findIndex(ep => ep.id === epId);
+    if (ei >= 0) {
+      currentEpisodeIdx = ei;
+      if (currentActIdx >= data.episodes[ei].acts.length) currentActIdx = 0;
+      renderDetail();
+      showDetail();
+      return;
+    }
+  }
+  showHome();
+}
+
+window.addEventListener('popstate', routeFromHash);
+
+/* ─── Init ─── */
+async function init() {
+  restorePrefs();
+  try {
+    const res = await fetch('./episodes.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    data = await res.json();
+    if (!data || !data.episodes || data.episodes.length === 0) {
+      throw new Error('数据为空');
+    }
+    renderHome();
+    document.body.classList.toggle('hide-cn', !showChinese);
+    updateTranslateLabels();
+    routeFromHash();
+  } catch (e) {
+    document.getElementById('home-content').innerHTML = `
+      <div class="loading" style="color:var(--danger)">
+        加载失败：${escapeHtml(e.message)}<br>
+        <small style="color:var(--text-3);margin-top:8px;display:block">请通过 HTTP 服务器访问此页面（如 <code>python3 -m http.server 8080</code>），不要直接双击打开 HTML。</small>
+      </div>
+    `;
+  }
+}
+
+init();
+</script>
+</body>
+</html>

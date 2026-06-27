@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (临时脚本)
+__pycache__/
+*.pyc
+_*.py
+
+# Node (如使用本地 serve)
+node_modules/
+package-lock.json
+package.json
+
+# 调试/测试文件
+debug.html
+test-player.html
+check_braces.py
+audio_analysis.json
+audio-downloads/
+
+# 日志
+*.log
