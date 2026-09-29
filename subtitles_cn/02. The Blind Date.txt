@@ -1,0 +1,243 @@
+Act I
+Excuse me. Can you help me?（打扰一下，你能帮帮我吗？）
+Sure, what do you want?（当然，你需要什么？）
+Where is 83 Wooster Street?（Wooster 大街 83 号在哪里？）
+That's easy. Walk to the corner.（很简单，走到街角。）
+Then make a left turn.（然后左转。）
+Then walk two blocks to the traffic light.（再走过两个街区到红绿灯。）
+Make another left to Wooster.（再左转就到 Wooster 大街了。）
+Thank you.（谢谢你。）
+To the corner and then a left?（走到街角然后左转？）
+Yeah. A left.（对，左转。）
+Hot dog? Only seventy-five cents.（热狗？只要七十五美分。）
+No. Thank you. I have a dinner date.（不，谢谢。我有个晚餐约会。）
+555-9470...and it's busy....（555-9470……占线了……）
+Try again.（再试一次。）
+555-9470...and it's still busy.（555-9470……还是占线。）
+Excuse me, ma'am.（打扰一下，女士。）
+I'm looking for 83 Wooster Street.（我在找 Wooster 大街 83 号。）
+Yes. Wooster Street is two blocks,（是的，Wooster 大街在两个街区外，）
+and 83 is to the right, about two houses.（83 号在右边，大概两栋房子的距离。）
+Thank you, thank you!（谢谢，太感谢了！）
+You're welcome.（不客气。）
+Who is it?（哪位？）
+Harry Bennett. Is this Susan?（Harry Bennett。是 Susan 吗？）
+Yes, it is. Come up.（是的，是我。上来吧。）
+I'm on the top floor.（我在顶层。）
+Hello, Harry. It's nice to meet you.（你好，Harry，很高兴见到你。）
+Nice to meet you, Susan.（很高兴见到你，Susan。）
+Sorry I'm late.（抱歉我迟到了。）
+The traffic. The parking. I was lost.（交通太堵，停车也难，我迷路了。）
+What pretty flowers! Thank you.（好漂亮的花！谢谢你。）
+Oh, please come in.（哦，请进。）
+Don't worry about being late. It's fine.（别担心迟到，没关系的。）
+Excuse the mess. I just moved here.（家里乱，请见谅，我刚搬来。）
+Oh, I'd like you to meet my sister-in-law Marilyn.（哦，我想让你见见我的嫂子 Marilyn。）
+Marilyn Stewart, this is Harry Bennett.（Marilyn Stewart，这是 Harry Bennett。）
+Pleased to meet you.（很高兴认识你。）
+Nice to meet you, Harry.（很高兴认识你，Harry。）
+Are we too late for our dinner reservation?（我们的晚餐预约会不会太晚了？）
+No, the restaurant will hold our table.（不会，餐厅会给我们留位子的。）
+I know the owner very well.（我和老板很熟。）
+I eat there a lot.（我常去那里吃饭。）
+Do you know the phone number of the restaurant?（你知道那家餐厅的电话吗？）
+I'd like to call home（我想往家里打个电话，）
+and leave the number with the baby-sitter.（把号码留给看孩子的保姆。）
+Sure. The number is... five five five...seventeen twenty.（当然，号码是……555……1720。）
+May I use the phone?（我可以用一下电话吗？）
+Five five five...one seven two oh. Hello?（555……1720。喂？）
+Hi, Michelle. It's Daddy.（嗨，Michelle，是爸爸。）
+Can I speak to Betty?（我能和 Betty 说话吗？）
+I want to leave the phone number of the restaurant...（我想把餐厅的电话号码留给你……）
+Hi, Betty. I'll be at five five five...seventeen twenty.（嗨，Betty，我在 555……1720。）
+OK. Thanks. See you later.（好的，谢谢，回头见。）
+Well, that's done. Shall we go?（好了，打完了。我们走吧？）
+I'm ready. See you later, Marilyn.（我准备好了，回头见，Marilyn。）
+Have a nice evening.（祝你们晚上愉快。）
+Bye, Marilyn. Hope to see you again.（再见，Marilyn，希望能再见到你。）
+Me, too. Have fun!（我也希望，玩得开心！）
+Thanks.（谢谢。）
+After you.（您先请。）
+
+Act II
+Ah! Miss Stewart! Welcome!（啊！Stewart 小姐！欢迎！）
+How are you?（你好吗？）
+Fine, Somsak. And you?（很好，Somsak，你呢？）
+Fine, thank you.（很好，谢谢。）
+This is my friend Harry Bennett.（这是我的朋友 Harry Bennett。）
+Pleased to meet you.（很高兴认识你。）
+Very nice to meet you.（非常高兴认识你。）
+Any friend of Miss Stewart's is welcome at Somsak's.（Stewart 小姐的朋友在 Somsak 餐厅都是受欢迎的。）
+Follow me, please.（请跟我来。）
+I like it here.（我喜欢这里。）
+I do, too. I come here often.（我也是，我常来。）
+A special place for special people.（为特别的人准备的特别之地。）
+Thank you, Somsak.（谢谢你，Somsak。）
+Well! Nice restaurant.（哇！不错的餐厅。）
+Would you like something to drink?（您想喝点什么吗？）
+Yes, I'd like a glass of ginger ale with ice.（好的，我要一杯加冰的姜汁汽水。）
+Harry, what would you like?（Harry，你想喝什么？）
+Do you have a dry white wine?（有干白葡萄酒吗？）
+How about a California chablis?（加州夏布利葡萄酒怎么样？）
+Chablis is fine.（夏布利就行。）
+What would you like to eat?（您想吃点什么？）
+I'd like the mee krob.（我要一份脆米粉。）
+Harry, would you like to see a menu?（Harry，你想看看菜单吗？）
+No, it's Ok.（不用了，没关系。）
+I'll have the mee krob also.（我也要脆米粉。）
+What is it?（那是什么？）
+Crispy fried noodles. I love them.（脆炸面条，我很喜欢。）
+May I bring you a salad?（给您来份沙拉好吗？）
+Oh yes.（哦，好的。）
+What do you recommend today?（今天您推荐什么？）
+I recommend rose-petal salad.（我推荐玫瑰花瓣沙拉。）
+Special for new friends.（专门为新朋友准备的。）
+Rose-petal salad?（玫瑰花瓣沙拉？）
+Why not?（为什么不试试？）
+I'll take care of everything.（一切交给我。）
+I hope you're hungry.（希望你们饿了。）
+What? Oh, yes. Starving. Well, I...（什么？哦，是的，饿坏了，嗯，我……）
+Well, I ...（嗯，我……）
+What do you do at Universe Toy Company?（你在宇宙玩具公司做什么工作？）
+I'm the vice-president of new toy development.（我是新玩具开发部的副总裁。）
+Terrific!（太棒了！）
+I know you 're a CPA.（我知道你是注册会计师。）
+That's true. Harry Bennett,（没错，Harry Bennett，）
+certified public accountant.（注册会计师。）
+I love numbers.（我喜欢数字。）
+I do some work for Smith and Dale,（我为 Smith and Dale 做一些工作，）
+Your company's accounting firm.（就是你们公司的会计师事务所。）
+And so...（所以……）
+Here we are.（我们到了。）
+Yes.（是的。）
+I have a daughter.（我有一个女儿。）
+I know. How old is she?（我知道，她多大了？）
+She's nine years old.（她九岁。）
+That's a nice age. What's her name?（这个年纪真好，她叫什么名字？）
+Michelle.（Michelle。）
+Do you have a picture of her?（你有她的照片吗？）
+She's very pretty.（她很漂亮。）
+Thank you.（谢谢你。）
+Rose-petal salad.（玫瑰花瓣沙拉。）
+And there's a phone call for you, Mr. Bennett.（Bennett 先生，有您的电话。）
+Excuse me, Susan.（失陪一下，Susan。）
+I hope nothing is wrong.（希望没出什么事。）
+I'll get the rest of the dinner.（我去把剩下的菜端上来。）
+Excuse me.（失陪一下。）
+Please forgive me, Susan, but...（请原谅我，Susan，但是……）
+I have to leave. I feel terrible, but...（我得走了，我感觉很糟糕，但是……）
+What's the matter?（怎么了？）
+My daughter isn't feeling well.（我女儿不舒服。）
+Oh no! Is it serious?（哦不！严重吗？）
+I don't know. The baby-sitter says she has a stomachache,（我不知道，保姆说她肚子疼，）
+and she's crying.（而且她在哭。）
+I'll have to go home.（我得回家了。）
+Will you forgive me?（你能原谅我吗？）
+Of course. I'm so sorry for Michelle.（当然，我很为 Michelle 担心。）
+And you didn't have a chance to eat.（而且你都没来得及吃东西。）
+Oh, it's OK.（哦，没关系。）
+Let me take you home first.（让我先送你回家吧。）
+No, no. Please, go ahead.（不不，你快去吧。）
+It's our first date.（这是我们的第一次约会。）
+We'll make another.（我们再约一次。）
+Please don't worry.（请别担心。）
+I'll phone you.（我会打电话给你。）
+I hope your daughter is all right. Good-bye.（希望你女儿没事，再见。）
+Good-bye.（再见。）
+
+Act III
+What happened?（发生什么事了？）
+The baby-sitter called.（保姆打来电话。）
+His daughter is sick.（他女儿生病了。）
+What's wrong?（怎么了？）
+I think she has a stomachache.（我想她是肚子疼。）
+He's a good father.（他是个好父亲。）
+So... what do you think of him?（那么……你觉得他怎么样？）
+He's very nice.（他很好。）
+But I think he was nervous tonight.（不过我觉得他今晚有点紧张。）
+It was his first date in two years.（这是他两年来第一次约会。）
+Will you see him again?（你还会再见他吗？）
+I hope so.（我希望会。）
+This food is delicious.（这菜真好吃。）
+He didn't get a thing to eat.（他一口都没吃上。）
+You ordered enough for three or four people,（你点的够三四个人吃的，）
+but I'm not complaining.（不过我不是在抱怨。）
+The food is delicious.（菜确实好吃。）
+Who is that?（那是谁？）
+Do you think it's...（你认为是……）
+No. You won't believe it, Marilyn!（不，你不会相信的，Marilyn！）
+I believe it. Even without looking.（我相信，即使不看也知道。）
+Hi!（嗨！）
+How...?（怎么……？）
+Your downstairs neighbor let me in.（你楼下的邻居让我进来的。）
+Did you go home?（你回家了吗？）
+I did , but everything is OK,（回去了，但一切都好，）
+so I decided to come back.（所以我决定回来。）
+To apologize for leaving so early,（为这么早离开道歉，）
+I brought you a little gift.（我给你带了个小礼物。）
+It's a bonsai tree（这是一棵盆景，）
+for your new apartment.（送给你新公寓的。）
+Hi, Marilyn. I hope it's not too late.（嗨，Marilyn，希望不算太晚。）
+Oh, not at all. We're still eating.（哦，一点也不晚，我们还在吃。）
+Please, come in. Join us.（请进，一起吃吧。）
+It's our meal from the restaurant.（这是我们在餐厅点的菜。）
+And how is your daughter?（你女儿怎么样了？）
+Oh, she's fine.（哦，她没事了。）
+It was only a tummy ache.（只是肚子疼了一下。）
+It's good that you went back.（你回去是对的。）
+Yes, I think it's important for me to be there（是的，我觉得我在那里很重要，）
+since her mother died.（自从她妈妈去世后。）
+I agree. Aren't you hungry?（我同意，你不饿吗？）
+As a matter of fact... I am hungry.（事实上……我确实饿了。）
+There's lots of food left.（还剩很多菜。）
+Mmm, this is delicious!（嗯，真好吃！）
+Enjoy!（慢慢享用！）
+I'm going to excuse myself.（我先失陪了。）
+I have a lot of work to do to get ready for tomorrow.（我还有很多事要做，为明天做准备。）
+Good night, Harry. It was nice meeting you.（晚安，Harry，很高兴认识你。）
+Bye, Marilyn.（再见，Marilyn。）
+Good night, Susan.（晚安，Susan。）
+Good night, Marilyn.（晚安，Marilyn。）
+She's going to a fashion show here in the city tomorrow.（她明天要参加城里的时装秀。）
+She is sleeping here（她睡在这里，）
+so she won't have to travel from Riverdale in the morning.（这样她早上就不用从 Riverdale 赶过来了。）
+You two must be close.（你们俩一定很亲近。）
+we are.（是的。）
+The whole Stewart family is close.（整个 Stewart 家都很亲密。）
+I like that.（我喜欢这样。）
+And then, two years ago, my wife died.（后来，两年前，我妻子去世了。）
+You miss her.（你想念她。）
+I do...yes, but I have Michelle...（是的……但我还有 Michelle……）
+and with time...（随着时间推移……）
+Is there anyone else in your life?（你生活中还有其他人吗？）
+No, not yet. What about you?（不，还没有，你呢？）
+Oh, I date occasionally,（哦，我偶尔也约会，）
+but my work keeps me busy.（但工作让我很忙。）
+Ooh, speaking of keeping busy-（哦，说到忙——）
+I have an early start tomorrow,（我明天要早起，）
+and the baby-sitter has to get home.（保姆也该回家了。）
+Where did the time go?（时间都去哪儿了？）
+It's midnight.（已经午夜了。）
+Thank you, Susan.（谢谢你，Susan。）
+I had a nice evening.（我今晚过得很愉快。）
+Me, too, Harry.（我也是，Harry。）
+Harry?（Harry？）
+Yes?（怎么了？）
+I'd like to meet your daughter someday.（我希望有一天能见见你女儿。）
+Does that mean that I can see you again?（那意思是说我可以再见到你吗？）
+Of course.（当然。）
+Wonderful. I'll call you,（太好了，我会打电话给你，）
+and we'll go out to dinner.（我们再出去吃晚饭。）
+Please do.（请一定打来。）
+I promise I won't leave early.（我保证不会早退。）
+It was for a good reason.（那是出于正当理由。）
+You know something?（你知道吗？）
+What?（什么？）
+I think we're going to be good friends.（我觉得我们会成为好朋友的。）
+Good night, Susan.（晚安，Susan。）
+Good night, Harry,（晚安，Harry，）
+Have a safe trip home.（回家路上注意安全。）
+Are you all right?（你没事吧？）
+Sorry.（对不起。）
+I never liked that umbrella stand.（我从不喜欢那个伞架。）
+Good night, Harry.（晚安，Harry。）
