@@ -1,0 +1,247 @@
+1
+00:00:00,000 --> 00:00:03,000
+Harry: It looks wrong.
+
+2
+00:00:00,000 --> 00:00:03,000
+Philip: Hmmm. It is wrong.
+
+3
+00:00:00,000 --> 00:00:03,000
+Richard: Are they always that difficult to make?
+
+4
+00:00:00,000 --> 00:00:03,000
+Philip: The truth is…yes. I’ll try again.
+
+5
+00:00:00,000 --> 00:00:03,000
+Robbie: At this rate, the wedding will take place tomorrow.
+
+6
+00:00:00,000 --> 00:00:03,000
+Philip: Not to worry. OK. Here we go.
+
+7
+00:00:00,000 --> 00:00:03,000
+Harry: I’m worried, Philip. What if we can’t tie the tie?
+
+8
+00:00:00,000 --> 00:00:03,000
+Richard: If we can’t tie the tie, then there can’t be a wedding.
+
+9
+00:00:00,000 --> 00:00:03,000
+Robbie: You’d better not make Harry any more nervous than he is. Don’t worry. We'll figure a way.
+
+10
+00:00:00,000 --> 00:00:03,000
+Grandpa: How’re you doing, fellas?
+
+11
+00:00:00,000 --> 00:00:03,000
+Harry: Not so good, Grandpa. We can’t get this bow tie tied. Nobody knows how to do it. Do you?
+
+12
+00:00:00,000 --> 00:00:03,000
+Grandpa: No. I never could, either.
+
+13
+00:00:00,000 --> 00:00:03,000
+Philip: Well, you have your own tuxedo. How do you tie your bow tie?
+
+14
+00:00:00,000 --> 00:00:03,000
+Robbie: Yeah, Grandpa, I’ve seen you in it. You look great. How do you tie it?
+
+15
+00:00:00,000 --> 00:00:03,000
+Grandpa: I don’t.
+
+16
+00:00:00,000 --> 00:00:03,000
+Richard: You don’t?
+
+17
+00:00:00,000 --> 00:00:03,000
+Harry: What do you mean?
+
+18
+00:00:00,000 --> 00:00:03,000
+Grandpa: I never could tie one of those…things…bow ties. I have always worn a clip-on bow tie.
+
+19
+00:00:00,000 --> 00:00:03,000
+Harry: A clip-on?
+
+20
+00:00:00,000 --> 00:00:03,000
+Philip: Of course. Now I remember.
+
+21
+00:00:00,000 --> 00:00:03,000
+Grandpa: Yes, it’s so easy. All you do is clip it around under your collar.
+
+22
+00:00:00,000 --> 00:00:03,000
+Richard: We all need one of those.
+
+23
+00:00:00,000 --> 00:00:03,000
+Robbie: The tuxedo rental store. Do you think they’re open?
+
+24
+00:00:00,000 --> 00:00:03,000
+Philip: Should be. Sunday’s their big day.
+
+25
+00:00:00,000 --> 00:00:03,000
+Richard: I’ll call and find out.
+
+26
+00:00:00,000 --> 00:00:03,000
+Grandpa: Well, if they’re not, I’ll lend you mine, Harry. You’re the only one who really needs to be wearing a tuxedo, anyway.
+
+27
+00:00:00,000 --> 00:00:03,000
+Harry: Thanks, Grandpa.
+
+28
+00:00:00,000 --> 00:00:03,000
+Philip: I’m the father of the bride. I’m supposed to be worried about my daughter, and here I am with the man that’s marrying my daughter-worrying about him.
+
+29
+00:00:00,000 --> 00:00:03,000
+Grandpa: Poor Harry. I know the feeling. Wedding-day litters.
+
+30
+00:00:00,000 --> 00:00:03,000
+Robbie: Are they open?
+
+31
+00:00:00,000 --> 00:00:03,000
+Richard: We’re in luck. They’re open. And they have lots of clip-on bow ties.
+
+32
+00:00:00,000 --> 00:00:03,000
+Robbie: I’ll bicycle down to the village and get them.
+
+33
+00:00:00,000 --> 00:00:03,000
+Harry: You’d better hurry, Robbie.
+
+34
+00:00:00,000 --> 00:00:03,000
+Grandpa: There’s lots of time. A little over two hours.
+
+35
+00:00:00,000 --> 00:00:03,000
+Harry: In two hours and fifteen minutes I’ll be married to Susan.
+
+36
+00:00:00,000 --> 00:00:03,000
+Philip: And be a true member of the Stewart family.
+
+37
+00:00:00,000 --> 00:00:03,000
+Grandpa: Oh, you’re a lucky guy, Harry. Susan is one of the best women you’ll ever find. She’s just like her grandma.
+
+38
+00:00:00,000 --> 00:00:03,000
+Richard: Now, once you put the ring on Susan’s finger, you are one of us, Harry. And don’t ever forget it.
+
+39
+00:00:00,000 --> 00:00:03,000
+Harry: Ring? Ring? Oh my! What did I do with the rings? I put them in the pocket of my sports jacket.
+
+40
+00:00:00,000 --> 00:00:03,000
+Richard: No, I think you put them in your tuxedo jacket pocket. Remember?
+
+41
+00:00:00,000 --> 00:00:03,000
+Harry: Right. What did I do with the rings?
+
+42
+00:00:00,000 --> 00:00:03,000
+Philip: Didn’t you give them to Richard? He’s your best man. I remember. You gave them to Richard.
+
+43
+00:00:00,000 --> 00:00:03,000
+Richard: Oh, yeah. I remember now. You handed them to me. What did I do with them?
+
+44
+00:00:00,000 --> 00:00:03,000
+Harry: I hope they aren’t lost.
+
+45
+00:00:00,000 --> 00:00:03,000
+Grandpa: Oh, don’t worry, Harry. They have to be here.
+
+46
+00:00:00,000 --> 00:00:03,000
+Richard: I remember. I gave them to Robbie to hold so I wouldn’t lose them.
+
+47
+00:00:00,000 --> 00:00:03,000
+Harry: Oh, I forget. What time is it?
+
+48
+00:00:00,000 --> 00:00:03,000
+Grandpa: It’s still a little over two hours, Harry. Just relax.
+
+49
+00:00:00,000 --> 00:00:03,000
+Harry: What about the rings?
+
+50
+00:00:00,000 --> 00:00:03,000
+Richard: I’m sure Robbie has them.
+
+51
+00:00:00,000 --> 00:00:03,000
+Harry: No, NO, Robbie doesn’t have them. He gave them to me to hold on to them because he didn’t want the responsibility of holding them. I put them in my tuxedo but in the lapel pocket. That’s a relent. I was really worried.
+
+52
+00:00:00,000 --> 00:00:03,000
+Richard: I’ll hold on to them for you. The best man always keeps the rings.
+
+53
+00:00:00,000 --> 00:00:03,000
+Harry: You’re right. You’re right. You hold on to them so there won’t be problem later.
+
+54
+00:00:00,000 --> 00:00:03,000
+Philip: Well, now, I think we’d better get dressed, fellas.
+
+55
+00:00:00,000 --> 00:00:03,000
+Grandpa: All right!
+
+56
+00:00:00,000 --> 00:00:03,000
+Richard: Robbie will bring the ties back.
+
+57
+00:00:00,000 --> 00:00:03,000
+Harry: Hey, leaving me?
+
+58
+00:00:00,000 --> 00:00:03,000
+Grandpa: You’ll be fine.
+
+59
+00:00:00,000 --> 00:00:03,000
+Philip: Try to take it easy. It’ll all be over in two hours.
+
+60
+00:00:00,000 --> 00:00:03,000
+Harry: Over?
+
+61
+00:00:00,000 --> 00:00:03,000
+Grandpa: The wedding ceremony will be over. You’ll be husband and wife.
+
+62
+00:00:00,000 --> 00:00:03,000
+Harry: I guess you’re right. Two hours from now. Two hours from now.

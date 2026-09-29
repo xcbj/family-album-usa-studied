@@ -1,0 +1,235 @@
+1
+00:00:07,300 --> 00:00:08,960
+Excuse me. Can you help me?
+
+2
+00:00:08,960 --> 00:00:10,770
+Sure, what do you want?
+
+3
+00:00:10,770 --> 00:00:13,250
+Where is 83 Wooster Street?
+
+4
+00:00:13,250 --> 00:00:16,620
+That's easy. Walk to the corner.
+
+5
+00:00:16,620 --> 00:00:18,580
+Then make a left turn.
+
+6
+00:00:18,580 --> 00:00:21,600
+Then walk two blocks to the traffic light.
+
+7
+00:00:21,600 --> 00:00:23,220
+Make another left to Wooster.
+
+8
+00:00:23,220 --> 00:00:24,940
+Thank you.
+
+9
+00:00:24,940 --> 00:00:26,870
+To the corner and then a left?
+
+10
+00:00:26,870 --> 00:00:28,230
+Yeah. A left.
+
+11
+00:00:28,230 --> 00:00:30,050
+Hot dog? Only seventy-five cents.
+
+12
+00:00:30,050 --> 00:00:44,650
+No. Thank you. I have a dinner date.
+
+13
+00:00:44,650 --> 00:00:59,250
+555-9470...and it's busy....
+
+14
+00:00:59,250 --> 00:01:10,200
+Try again.
+
+15
+00:01:10,200 --> 00:01:21,160
+555-9470...and it's still busy.
+
+16
+00:01:21,160 --> 00:01:22,350
+Excuse me, ma'am.
+
+17
+00:01:22,350 --> 00:01:25,850
+I'm looking for 83 Wooster Street.
+
+18
+00:01:25,850 --> 00:01:28,870
+Yes. Wooster Street is two blocks,
+
+19
+00:01:28,870 --> 00:01:35,350
+and 83 is to the right, about two houses.
+
+20
+00:01:35,350 --> 00:01:37,030
+Thank you, thank you!
+
+21
+00:01:37,030 --> 00:01:48,000
+You're welcome.
+
+22
+00:01:48,000 --> 00:01:49,580
+Who is it?
+
+23
+00:01:49,580 --> 00:01:51,360
+Harry Bennett. Is this Susan?
+
+24
+00:01:51,360 --> 00:01:52,890
+Yes, it is. Come up.
+
+25
+00:01:52,890 --> 00:01:55,510
+I'm on the top floor.
+
+26
+00:01:55,510 --> 00:01:58,530
+Hello, Harry. It's nice to meet you.
+
+27
+00:01:58,530 --> 00:02:00,780
+Nice to meet you, Susan.
+
+28
+00:02:00,780 --> 00:02:02,680
+Sorry I'm late.
+
+29
+00:02:02,680 --> 00:02:08,600
+The traffic. The parking. I was lost.
+
+30
+00:02:08,600 --> 00:02:10,510
+What pretty flowers! Thank you.
+
+31
+00:02:10,510 --> 00:02:13,180
+Oh, please come in.
+
+32
+00:02:13,180 --> 00:02:16,530
+Don't worry about being late. It's fine.
+
+33
+00:02:16,530 --> 00:02:20,090
+Excuse the mess. I just moved here.
+
+34
+00:02:20,090 --> 00:02:23,140
+Oh, I'd like you to meet my sister-in-law Marilyn.
+
+35
+00:02:23,140 --> 00:02:25,580
+Marilyn Stewart, this is Harry Bennett.
+
+36
+00:02:25,580 --> 00:02:26,420
+Pleased to meet you.
+
+37
+00:02:26,420 --> 00:02:28,330
+Nice to meet you, Harry.
+
+38
+00:02:28,330 --> 00:02:30,260
+Are we too late for our dinner reservation?
+
+39
+00:02:30,260 --> 00:02:32,470
+No, the restaurant will hold our table.
+
+40
+00:02:32,470 --> 00:02:33,540
+I know the owner very well.
+
+41
+00:02:33,540 --> 00:02:34,640
+I eat there a lot.
+
+42
+00:02:34,640 --> 00:02:36,420
+Do you know the phone number of the restaurant?
+
+43
+00:02:36,420 --> 00:02:38,300
+I'd like to call home
+
+44
+00:02:38,300 --> 00:02:39,600
+and leave the number with the baby-sitter.
+
+45
+00:02:39,600 --> 00:02:50,300
+Sure. The number is... five five five...seventeen twenty.
+
+46
+00:02:50,300 --> 00:03:01,740
+May I use the phone?
+
+47
+00:03:01,740 --> 00:03:07,210
+Five five five...one seven two oh. Hello?
+
+48
+00:03:07,210 --> 00:03:08,440
+Hi, Michelle. It's Daddy.
+
+49
+00:03:08,440 --> 00:03:10,890
+Can I speak to Betty?
+
+50
+00:03:10,890 --> 00:03:15,010
+I want to leave the phone number of the restaurant...
+
+51
+00:03:15,010 --> 00:03:19,980
+Hi, Betty. I'll be at five five five...seventeen twenty.
+
+52
+00:03:19,980 --> 00:03:24,790
+OK. Thanks. See you later.
+
+53
+00:03:24,790 --> 00:03:27,300
+Well, that's done. Shall we go?
+
+54
+00:03:27,300 --> 00:03:29,520
+I'm ready. See you later, Marilyn.
+
+55
+00:03:29,520 --> 00:03:31,280
+Have a nice evening.
+
+56
+00:03:31,280 --> 00:03:32,970
+Bye, Marilyn. Hope to see you again.
+
+57
+00:03:32,970 --> 00:03:35,250
+Me, too. Have fun!
+
+58
+00:03:35,250 --> 00:03:39,680
+Thanks.
+
+59
+00:03:39,680 --> 00:03:42,680
+After you.
