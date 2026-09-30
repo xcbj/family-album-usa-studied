@@ -1,371 +1,371 @@
 1
-00:01:54,600 --> 00:01:59,600
+00:01:54,530 --> 00:01:59,530
 Morning, Grandpa.
 
 2
-00:01:59,600 --> 00:02:03,600
+00:01:59,530 --> 00:02:03,530
 Is something the matter, Grandpa?
 
 3
-00:02:03,600 --> 00:02:14,600
+00:02:03,530 --> 00:02:14,530
 The editorial in this paper has my friend Nat Baker real upset.
 
 4
-00:02:14,600 --> 00:02:17,600
+00:02:14,530 --> 00:02:17,530
 Ah! I'll read it to you.
 
 5
-00:02:17,600 --> 00:02:22,600
+00:02:17,530 --> 00:02:22,530
 "The old library building on Chestnut Street, “Chestnut
 
 6
-00:02:22,600 --> 00:02:25,600
+00:02:22,530 --> 00:02:25,530
 which has been vacant for over a year now,
 
 7
-00:02:25,600 --> 00:02:28,600
+00:02:25,530 --> 00:02:28,530
 was supposed to be made into a community center
 
 8
-00:02:28,600 --> 00:02:30,600
+00:02:28,530 --> 00:02:30,530
 to serve the senior citizens
 
 9
-00:02:30,600 --> 00:02:32,600
+00:02:30,530 --> 00:02:32,530
 as well as the younger people of Riverdale.
 
 10
-00:02:32,600 --> 00:02:34,600
+00:02:32,530 --> 00:02:34,530
 Due to lack of funds
 
 11
-00:02:34,600 --> 00:02:37,600
+00:02:34,530 --> 00:02:37,530
 for the repainting of the interior of the building
 
 12
-00:02:37,600 --> 00:02:39,600
+00:02:37,530 --> 00:02:39,530
 and for the furniture needed,
 
 13
-00:02:39,600 --> 00:02:42,600
+00:02:39,530 --> 00:02:42,530
 the plans for the community center
 
 14
-00:02:42,600 --> 00:02:45,600
+00:02:42,530 --> 00:02:45,530
 have been postponed indefinitely."
 
 15
-00:02:45,600 --> 00:02:49,600
+00:02:45,530 --> 00:02:49,530
 He's coming over to talk about it.
 
 16
-00:02:49,600 --> 00:02:51,600
+00:02:49,530 --> 00:02:51,530
 Is it that serious a problem, Grandpa?
 
 17
-00:02:51,600 --> 00:02:53,600
+00:02:51,530 --> 00:02:53,530
 It is.
 
 18
-00:02:53,600 --> 00:02:57,600
+00:02:53,530 --> 00:02:57,530
 Nat's not as lucky as I am, Robbie. Nat
 
 19
-00:02:57,600 --> 00:02:59,600
+00:02:57,530 --> 00:02:59,530
 He doesn't have any family with him.
 
 20
-00:02:59,600 --> 00:03:01,600
+00:02:59,530 --> 00:03:01,530
 He lives alone
 
 21
-00:03:01,600 --> 00:03:05,600
+00:03:01,530 --> 00:03:05,530
 and depends on places like a community center
 
 22
-00:03:05,600 --> 00:03:08,600
+00:03:05,530 --> 00:03:08,530
 to be with people--people his own age.
 
 23
-00:03:08,600 --> 00:03:12,600
+00:03:08,530 --> 00:03:12,530
 But there's the old community center on Elm Street.
 
 24
-00:03:12,600 --> 00:03:13,600
+00:03:12,530 --> 00:03:13,530
 It's small,
 
 25
-00:03:13,600 --> 00:03:20,600
+00:03:13,530 --> 00:03:20,530
 and the problem is that it's set up primarily for kids to play.
 
 26
-00:03:20,600 --> 00:03:26,600
+00:03:20,530 --> 00:03:26,530
 Ping-Pong tables, soda machines, and lots of music.
 
 27
-00:03:26,600 --> 00:03:29,600
+00:03:26,530 --> 00:03:29,530
 It's too noisy for some older people like Nat.
 
 28
-00:03:29,600 --> 00:03:32,600
+00:03:29,530 --> 00:03:32,530
 I never realized that.
 
 29
-00:03:32,600 --> 00:03:36,600
+00:03:32,530 --> 00:03:36,530
 It's hard for some older people to take all that noise.
 
 30
-00:03:36,600 --> 00:03:40,600
+00:03:36,530 --> 00:03:40,530
 That's why the new community center is a good idea.
 
 31
-00:03:40,600 --> 00:03:42,600
+00:03:40,530 --> 00:03:42,530
 Part of the building for older people,
 
 32
-00:03:42,600 --> 00:03:44,600
+00:03:42,530 --> 00:03:44,530
 part of the building for younger people.
 
 33
-00:03:44,600 --> 00:03:46,600
+00:03:44,530 --> 00:03:46,530
 I see what you mean.
 
 34
-00:03:46,600 --> 00:03:49,600
+00:03:46,530 --> 00:03:49,530
 That must be Nat.
 
 35
-00:03:49,600 --> 00:03:51,600
+00:03:49,530 --> 00:03:51,530
 It could be Alexandra.
 
 36
-00:03:51,600 --> 00:03:54,600
+00:03:51,530 --> 00:03:54,530
 She's coming over this morning to help me with my math.
 
 37
-00:03:54,600 --> 00:04:02,600
+00:03:54,530 --> 00:04:02,530
 Hi, Robbie.
 
 38
-00:04:02,600 --> 00:04:04,600
+00:04:02,530 --> 00:04:04,530
 Hi, Alexandra. Come on in.
 
 39
-00:04:04,600 --> 00:04:09,600
+00:04:04,530 --> 00:04:09,530
 Do you want something cold to drink?
 
 40
-00:04:09,600 --> 00:04:11,600
+00:04:09,530 --> 00:04:11,530
 I'd love some cola, please.
 
 41
-00:04:11,600 --> 00:04:13,600
+00:04:11,530 --> 00:04:13,530
 Cola coming up.
 
 42
-00:04:13,600 --> 00:04:17,600
+00:04:13,530 --> 00:04:17,530
 I really appreciate you coming over to help me with my math.
 
 43
-00:04:17,600 --> 00:04:19,600
+00:04:17,530 --> 00:04:19,530
 My final exam is next Tuesday.
 
 44
-00:04:19,600 --> 00:04:22,600
+00:04:19,530 --> 00:04:22,530
 You're so good in all your other subjects.
 
 45
-00:04:22,600 --> 00:04:24,600
+00:04:22,530 --> 00:04:24,530
 I just can't understand
 
 46
-00:04:24,600 --> 00:04:26,600
+00:04:24,530 --> 00:04:26,530
 why you have so many problems with math.
 
 47
-00:04:26,600 --> 00:04:28,600
+00:04:26,530 --> 00:04:28,530
 Hi, Alexandra.
 
 48
-00:04:28,600 --> 00:04:29,600
+00:04:28,530 --> 00:04:29,530
 Hi, Mr. Stewart.
 
 49
-00:04:29,600 --> 00:04:32,600
+00:04:29,530 --> 00:04:32,530
 I thought that was Nat Baker who rang the front doorbell.
 
 50
-00:04:32,600 --> 00:04:35,600
+00:04:32,530 --> 00:04:35,530
 Don't let me interrupt you.
 
 51
-00:04:35,600 --> 00:04:36,600
+00:04:35,530 --> 00:04:36,530
 No problem, Grandpa.
 
 52
-00:04:36,600 --> 00:04:37,600
+00:04:36,530 --> 00:04:37,530
 We're just having some cola
 
 53
-00:04:37,600 --> 00:04:40,600
+00:04:37,530 --> 00:04:40,530
 before getting to the tough stuff--math.
 
 54
-00:04:40,600 --> 00:04:44,600
+00:04:40,530 --> 00:04:44,530
 He'll do anything to avoid getting down to math lessons,
 
 55
-00:04:44,600 --> 00:04:45,600
+00:04:44,530 --> 00:04:45,530
 Mr. Stewart. Stewart
 
 56
-00:04:45,600 --> 00:04:48,600
+00:04:45,530 --> 00:04:48,530
 I was the same way.
 
 57
-00:04:48,600 --> 00:04:49,600
+00:04:48,530 --> 00:04:49,530
 Really, Grandpa?
 
 58
-00:04:49,600 --> 00:04:52,600
+00:04:49,530 --> 00:04:52,530
 Really. I didn't like math.
 
 59
-00:04:52,600 --> 00:04:56,600
+00:04:52,530 --> 00:04:56,530
 I wasn't good at it, and I didn't like studying it.
 
 60
-00:04:56,600 --> 00:04:58,600
+00:04:56,530 --> 00:04:58,530
 But you had to be good at math.
 
 61
-00:04:58,600 --> 00:05:00,600
+00:04:58,530 --> 00:05:00,530
 You graduated from engineering school.
 
 62
-00:05:00,600 --> 00:05:03,600
+00:05:00,530 --> 00:05:03,530
 I was. But not in high school.
 
 63
-00:05:03,600 --> 00:05:06,600
+00:05:03,530 --> 00:05:06,530
 For some reason, I couldn't get a handle on it.
 
 64
-00:05:06,600 --> 00:05:10,600
+00:05:06,530 --> 00:05:10,530
 Then, in college, I became good at it.
 
 65
-00:05:10,600 --> 00:05:12,600
+00:05:10,530 --> 00:05:12,530
 Then there's hope for Robbie.
 
 66
-00:05:12,600 --> 00:05:13,600
+00:05:12,530 --> 00:05:13,530
 I can't wait.
 
 67
-00:05:13,600 --> 00:05:17,600
+00:05:13,530 --> 00:05:17,530
 You think I can just skip it now and get to it at college?
 
 68
-00:05:17,600 --> 00:05:20,600
+00:05:17,530 --> 00:05:20,530
 You'll never get to college to find out, Robbie,
 
 69
-00:05:20,600 --> 00:05:21,600
+00:05:20,530 --> 00:05:21,530
 if you skip it now.
 
 70
-00:05:21,600 --> 00:05:24,600
+00:05:21,530 --> 00:05:24,530
 That must be Nat.
 
 71
-00:05:24,600 --> 00:05:29,600
+00:05:24,530 --> 00:05:29,530
 Sit down, Robbie. Let's get to work.
 
 72
-00:05:29,600 --> 00:05:43,600
+00:05:29,530 --> 00:05:43,530
 I'd like you to meet my friend Nat Baker.
 
 73
-00:05:43,600 --> 00:05:47,600
+00:05:43,530 --> 00:05:47,530
 This is Alexandra Pappas, and this is my grandson Robbie,
 
 74
-00:05:47,600 --> 00:05:49,600
+00:05:47,530 --> 00:05:49,530
 whom I think you've met once or twice before.
 
 75
-00:05:49,600 --> 00:05:51,600
+00:05:49,530 --> 00:05:51,530
 Nice to meet you, Mr. Baker.
 
 76
-00:05:51,600 --> 00:05:53,600
+00:05:51,530 --> 00:05:53,530
 Hi, Mr. Baker. We met before.
 
 77
-00:05:53,600 --> 00:05:54,600
+00:05:53,530 --> 00:05:54,530
 Where?
 
 78
-00:05:54,600 --> 00:05:57,600
+00:05:54,530 --> 00:05:57,530
 In town. At the hardware store.
 
 79
-00:05:57,600 --> 00:06:02,600
+00:05:57,530 --> 00:06:02,530
 I remember now. Right. Hi.
 
 80
-00:06:02,600 --> 00:06:03,600
+00:06:02,530 --> 00:06:03,530
 Hello, Alexandra.
 
 81
-00:06:03,600 --> 00:06:07,600
+00:06:03,530 --> 00:06:07,530
 Don't let us keep you from your math tutoring, Robbie.
 
 82
-00:06:07,600 --> 00:06:09,600
+00:06:07,530 --> 00:06:09,530
 I know you want to get to it.
 
 83
-00:06:09,600 --> 00:06:10,600
+00:06:09,530 --> 00:06:10,530
 Stay ... stay.
 
 84
-00:06:10,600 --> 00:06:14,600
+00:06:10,530 --> 00:06:14,530
 I told you. He'll use any excuse to avoid math.
 
 85
-00:06:14,600 --> 00:06:17,600
+00:06:14,530 --> 00:06:17,530
 Did you read the story in the paper, Malcolm?
 
 86
-00:06:17,600 --> 00:06:18,600
+00:06:17,530 --> 00:06:18,530
 I did.
 
 87
-00:06:18,600 --> 00:06:21,600
+00:06:18,530 --> 00:06:21,530
 It's a serious matter for a lot of us.
 
 88
-00:06:21,600 --> 00:06:22,600
+00:06:21,530 --> 00:06:22,530
 A serious matter.
 
 89
-00:06:22,600 --> 00:06:24,600
+00:06:22,530 --> 00:06:24,530
 It is. Come on out to the patio.
 
 90
-00:06:24,600 --> 00:06:25,600
+00:06:24,530 --> 00:06:25,530
 We'll talk about it out there.
 
 91
-00:06:25,600 --> 00:06:28,600
+00:06:25,530 --> 00:06:28,530
 Thanks. Nice to meet you ... again.
 
 92
-00:06:28,600 --> 00:06:32,600
+00:06:28,530 --> 00:06:32,530
 What's the problem?
 
 93
-00:06:32,600 --> 00:06:35,600
+00:06:32,530 --> 00:06:35,530
 Come on! You'll hear about it.

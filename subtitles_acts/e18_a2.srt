@@ -1,151 +1,151 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Grandpa: Here are the fliers, hot of the press!
 
 2
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: Looks good. Simple.
 
 3
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Marilyn: Right over there, Grandpa. You fold the fliers, Richard and I will put them into the envelopes.
 
 4
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Richard: We finished addressing over three hundred envelopes.
 
 5
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Grandpa: Need another box?
 
 6
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: Good work, gang.
 
 7
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Mike: Hi, this is Mike Johnson. Can I speak with Mr. Or Mrs. Anderson? Thanks.
 
 8
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Robbie: Mr. Nelson. Hi. This is Robbie Stewart. Did you know my mother is running for the school board?
 
 9
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Jimmy: Yes, Miss Kim, Ellen Stewart.”She cares.” Oh, see you at the polls.
 
 10
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Robbie: Certainly, I’ll give her your best wishes, Mr. Nelson.
 
 11
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Mike: Hi, this is Mike Johnson. Can I speak with Mr. or Mrs. Burns? Thank you.
 
 12
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: We have done so much in such a short amount of time. I can’t believe it! Wait till Philip come and sees our progress!
 
 13
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Robbie: Everyone saw story in the Riverdale newspaper.
 
 14
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: Mr. Maxwell was very kind to print my announcement.
 
 15
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Grandpa: It helps enormously. Everybody in Riverdale reads his paper.
 
 16
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Richard: Your photo in it helped, too.
 
 17
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: Thanks to you, Richard, it’s a good picture.
 
 18
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Philip: Well, hi, all. Richard&Robbi e Hi, Dad.
 
 19
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: Hello, darling.
 
 20
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Philip: May I…may I help?
 
 21
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Marilyn: Licking envelopes.
 
 22
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Grandpa: I fold the fliers.
 
 23
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Richard: We stuff them.
 
 24
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Philip: And I lick the envelopes.
 
 25
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Robbie: Hey, everybody, Mrs. Greenberg is on the phone. She says Carter Boswell is on the TV right now-doing a commercial.
 
 26
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Philip: What channel?
 
 27
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Robbie: Five.
 
 28
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Philip: Five?
 
 29
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Boswell: …and if you ask what I care about, I’ll tell you. I care about the school buildings in need of paint. I care about more lockers for the teachers. I care about new fixtures in the hallways-not music or dancing or entertainment. I care about the practical things. If you do, vote for me, Carter Boswell.
 
 30
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: A lot of people will agree with him.
 
 31
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Philip: I told you.
 
 32
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Robbie: Too bad kids can’t vote. It’s our school, but we can’t vote.
 
 33
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Richard: There are people in favor of the cultural programs, Mom.
 
 34
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Marilyn: There are, Ellen. Don’t be upset by Boswell’s commercial.
 
 35
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Philip: You have to go on television, too.
 
 36
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: Boswell’s a powerful speaker.
 
 37
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Philip: You can be, too. Your ideas are good ones.
 
 38
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:02,930
 Ellen: I don’t know. I’m not sure I’m up to it.
