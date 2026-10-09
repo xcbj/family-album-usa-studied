@@ -1,391 +1,391 @@
 1
-00:00:00,400 --> 00:00:00,600
+00:00:00,000 --> 00:00:06,766
 A Place of Our Own
 
 2
-00:00:00,400 --> 00:00:00,600
+00:00:06,766 --> 00:00:08,460
 How do you do?
 
 3
-00:00:00,400 --> 00:00:00,600
+00:00:08,460 --> 00:00:10,194
 Hello.
 
 4
-00:00:00,400 --> 00:00:00,600
+00:00:10,194 --> 00:00:11,266
 I'm Ralph Riley.
 
 5
-00:00:00,400 --> 00:00:00,600
+00:00:11,266 --> 00:00:13,882
 I'm Richard Stewart, and this is my wife, Marilyn.
 
 6
-00:00:00,400 --> 00:00:00,600
+00:00:13,882 --> 00:00:14,523
 Pleased to meet you.
 
 7
-00:00:00,400 --> 00:00:00,600
+00:00:14,523 --> 00:00:15,325
 Likewise, Mr. Riley.
 
 8
-00:00:00,400 --> 00:00:00,600
+00:00:15,325 --> 00:00:20,076
 Please, sit down. What can I do for you?
 
 9
-00:00:00,400 --> 00:00:00,600
+00:00:20,076 --> 00:00:22,863
 We'd like to discuss a mortgage.
 
 10
-00:00:00,400 --> 00:00:00,600
+00:00:22,863 --> 00:00:23,795
 For a house.
 
 11
-00:00:00,400 --> 00:00:00,600
+00:00:23,795 --> 00:00:26,170
 Fine. Are you buying a house
 
 12
-00:00:00,400 --> 00:00:00,600
+00:00:26,170 --> 00:00:28,075
 or are you refinancing your present home?
 
 13
-00:00:00,400 --> 00:00:00,600
+00:00:28,075 --> 00:00:29,959
 We're planning to buy a house.
 
 14
-00:00:00,400 --> 00:00:00,600
+00:00:29,959 --> 00:00:32,284
 And we'd like to find out about a mortgage.
 
 15
-00:00:00,400 --> 00:00:00,600
+00:00:32,284 --> 00:00:34,229
 We are customers of the bank.
 
 16
-00:00:00,400 --> 00:00:00,600
+00:00:34,229 --> 00:00:37,206
 As a matter of fact, my whole family banks here.
 
 17
-00:00:00,400 --> 00:00:00,600
+00:00:37,206 --> 00:00:40,574
 I have some questions to ask.
 
 18
-00:00:00,400 --> 00:00:00,600
+00:00:40,574 --> 00:00:43,079
 Do you own your house or do you rent?
 
 19
-00:00:00,400 --> 00:00:00,600
+00:00:43,079 --> 00:00:44,032
 Neither.
 
 20
-00:00:00,400 --> 00:00:00,600
+00:00:44,032 --> 00:00:49,103
 We live with my parents, Dr. and Mrs. Philip Stewart.
 
 21
-00:00:00,400 --> 00:00:00,600
+00:00:49,103 --> 00:00:51,108
 And how old are you?
 
 22
-00:00:00,400 --> 00:00:00,600
+00:00:51,108 --> 00:00:52,090
 I'm twenty-nine.
 
 23
-00:00:00,400 --> 00:00:00,600
+00:00:52,090 --> 00:00:54,566
 I'm thirty.
 
 24
-00:00:00,400 --> 00:00:00,600
+00:00:54,566 --> 00:00:57,382
 And, Mr. Stewart, what is your occupation?
 
 25
-00:00:00,400 --> 00:00:00,600
+00:00:57,382 --> 00:00:59,247
 I'm a freelance photographer.
 
 26
-00:00:00,400 --> 00:00:00,600
+00:00:59,247 --> 00:01:00,780
 And, Mrs. Stewart, are you working?
 
 27
-00:00:00,400 --> 00:00:00,600
+00:01:00,780 --> 00:01:04,258
 Yes. I'm a designer, and I work in a boutique.
 
 28
-00:00:00,400 --> 00:00:00,600
+00:01:04,258 --> 00:01:06,844
 Did you bring any savings or salary information?
 
 29
-00:00:00,400 --> 00:00:00,600
+00:01:06,844 --> 00:01:08,097
 Last year's tax forms?
 
 30
-00:00:00,400 --> 00:00:00,600
+00:01:08,097 --> 00:01:16,196
 Yes. Here they are.
 
 31
-00:00:00,400 --> 00:00:00,600
+00:01:16,196 --> 00:01:18,892
 OK. What ... what kind of house did you have in mind?
 
 32
-00:00:00,400 --> 00:00:00,600
+00:01:18,892 --> 00:01:20,015
 We're talking about buying
 
 33
-00:00:00,400 --> 00:00:00,600
+00:01:20,015 --> 00:01:22,300
 a two-bedroom house in Mount Kisco.
 
 34
-00:00:00,400 --> 00:00:00,600
+00:01:22,300 --> 00:01:28,424
 Here are the financial details on the house.
 
 35
-00:00:00,400 --> 00:00:00,600
+00:01:28,424 --> 00:01:29,356
 Thank you.
 
 36
-00:00:00,400 --> 00:00:00,600
+00:01:29,356 --> 00:01:30,870
 Are you prepared to make a ten-percent down payment?
 
 37
-00:00:00,400 --> 00:00:00,600
+00:01:30,870 --> 00:01:32,644
 Yes, we are.
 
 38
-00:00:00,400 --> 00:00:00,600
+00:01:32,644 --> 00:01:34,468
 Payments over thirty years?
 
 39
-00:00:00,400 --> 00:00:00,600
+00:01:34,468 --> 00:01:38,337
 Yes.
 
 40
-00:00:00,400 --> 00:00:00,600
+00:01:38,337 --> 00:01:40,772
 Do you think we can get a loan?
 
 41
-00:00:00,400 --> 00:00:00,600
+00:01:40,772 --> 00:01:45,323
 Well, it depends. Do you own any other property?
 
 42
-00:00:00,400 --> 00:00:00,600
+00:01:45,323 --> 00:01:48,440
 Any stocks or bonds?
 
 43
-00:00:00,400 --> 00:00:00,600
+00:01:48,440 --> 00:01:50,545
 No.
 
 44
-00:00:00,400 --> 00:00:00,600
+00:01:50,545 --> 00:01:55,216
 I see. Then you don't have any collateral.
 
 45
-00:00:00,400 --> 00:00:00,600
+00:01:55,216 --> 00:01:57,541
 Perhaps you could get a guarantor--
 
 46
-00:00:00,400 --> 00:00:00,600
+00:01:57,541 --> 00:02:00,187
 someone to sign for the loan for you.
 
 47
-00:00:00,400 --> 00:00:00,600
+00:02:00,187 --> 00:02:02,252
 Why is that necessary?
 
 48
-00:00:00,400 --> 00:00:00,600
+00:02:02,252 --> 00:02:03,605
 Since you don't have enough income,
 
 49
-00:00:00,400 --> 00:00:00,600
+00:02:03,605 --> 00:02:05,720
 and you don't already own any property,
 
 50
-00:00:00,400 --> 00:00:00,600
+00:02:05,720 --> 00:02:07,053
 the bank needs to be sure
 
 51
-00:00:00,400 --> 00:00:00,600
+00:02:07,053 --> 00:02:08,957
 you can pay the mortgage every month.
 
 52
-00:00:00,400 --> 00:00:00,600
+00:02:08,957 --> 00:02:10,952
 A guarantor is responsible for the loan
 
 53
-00:00:00,400 --> 00:00:00,600
+00:02:10,952 --> 00:02:13,257
 if you can't make the payments.
 
 54
-00:00:00,400 --> 00:00:00,600
+00:02:13,257 --> 00:02:20,143
 I see. Well, the idea of buying a house is exciting.
 
 55
-00:00:00,400 --> 00:00:00,600
+00:02:20,143 --> 00:02:23,942
 Thank you, Mr. Riley. We'll read this over carefully.
 
 56
-00:00:00,400 --> 00:00:00,600
+00:02:23,942 --> 00:02:25,004
 Thank you.
 
 57
-00:00:00,400 --> 00:00:00,600
+00:02:25,004 --> 00:02:26,077
 Good-bye. Thanks.
 
 58
-00:00:00,400 --> 00:00:00,600
+00:02:26,077 --> 00:02:29,695
 Good-bye. And hope to see you soon.
 
 59
-00:00:00,400 --> 00:00:00,600
+00:02:29,695 --> 00:02:30,367
 I hope so, too.
 
 60
-00:00:00,400 --> 00:00:00,600
+00:02:30,367 --> 00:02:31,630
 Take care.
 
 61
-00:00:00,400 --> 00:00:00,600
+00:02:31,630 --> 00:02:51,676
 Good-bye.
 
 62
-00:00:00,400 --> 00:00:00,600
+00:02:51,676 --> 00:02:52,578
 It all sounded so easy
 
 63
-00:00:00,400 --> 00:00:00,600
+00:02:52,578 --> 00:02:56,818
 until they mentioned needing collateral or a guarantor.
 
 64
-00:00:00,400 --> 00:00:00,600
+00:02:56,818 --> 00:02:59,845
 We have no collateral.
 
 65
-00:00:00,400 --> 00:00:00,600
+00:02:59,845 --> 00:03:01,208
 And I don't think it's a good idea
 
 66
-00:00:00,400 --> 00:00:00,600
+00:03:01,208 --> 00:03:04,415
 to ask Dad to sign as a guarantor.
 
 67
-00:00:00,400 --> 00:00:00,600
+00:03:04,415 --> 00:03:05,989
 I don't feel right about it.
 
 68
-00:00:00,400 --> 00:00:00,600
+00:03:05,989 --> 00:03:21,364
 I understand your feelings about it, Richard.
 
 69
-00:00:00,400 --> 00:00:00,600
+00:03:21,364 --> 00:03:29,283
 We can get a loan from the bank
 
 70
-00:00:00,400 --> 00:00:00,600
+00:03:29,283 --> 00:03:30,636
 [03:25.43]if we can put up some collateral.
 
 71
-00:00:00,400 --> 00:00:00,600
+00:03:30,636 --> 00:03:32,881
 And we don't own anything to use as collateral.
 
 72
-00:00:00,400 --> 00:00:00,600
+00:03:32,881 --> 00:03:38,514
 Or someone can sign with us as a guarantor.
 
 73
-00:00:00,400 --> 00:00:00,600
+00:03:38,514 --> 00:03:40,428
 Why don't you speak to Dad?
 
 74
-00:00:00,400 --> 00:00:00,600
+00:03:40,428 --> 00:03:45,590
 No. If we buy a house, I want to be able to handle it alone.
 
 75
-00:00:00,400 --> 00:00:00,600
+00:03:45,590 --> 00:03:48,788
 Everybody needs help sometimes, Richard.
 
 76
-00:00:00,400 --> 00:00:00,600
+00:03:48,788 --> 00:03:50,963
 I understand Richard's feelings about it, Ellen.
 
 77
-00:00:00,400 --> 00:00:00,600
+00:03:50,963 --> 00:03:53,809
 In two or three months, I'll have an advance on my book
 
 78
-00:00:00,400 --> 00:00:00,600
+00:03:53,809 --> 00:03:56,856
 and be able to put more money down.
 
 79
-00:00:00,400 --> 00:00:00,600
+00:03:56,856 --> 00:04:00,154
 What about the house in Mount Kisco?
 
 80
-00:00:00,400 --> 00:00:00,600
+00:04:00,154 --> 00:04:02,219
 Somebody else'll buy it by then.
 
 81
-00:00:00,400 --> 00:00:00,600
+00:04:02,219 --> 00:04:05,095
 Then there'll be other houses, Marilyn.
 
 82
-00:00:00,400 --> 00:00:00,600
+00:04:05,095 --> 00:04:09,706
 Richard has a point. You're just beginning to look. Richard
 
 83
-00:00:00,400 --> 00:00:00,600
+00:04:09,706 --> 00:04:10,768
 We're in no great rush. It's true.
 
 84
-00:00:00,400 --> 00:00:00,600
+00:04:10,768 --> 00:04:12,953
 This has been a great learning experience for us, Marilyn.
 
 85
-00:00:00,400 --> 00:00:00,600
+00:04:12,953 --> 00:04:15,048
 Talking to the real-estate agent.
 
 86
-00:00:00,400 --> 00:00:00,600
+00:04:15,048 --> 00:04:17,404
 Looking at the houses.
 
 87
-00:00:00,400 --> 00:00:00,600
+00:04:17,404 --> 00:04:21,233
 Talking to the loan officer at the bank.
 
 88
-00:00:00,400 --> 00:00:00,600
+00:04:21,233 --> 00:04:23,367
 It has been a learning experience. That's true.
 
 89
-00:00:00,400 --> 00:00:00,600
+00:04:23,367 --> 00:04:26,094
 I think you're doing the right thing. Taking your time.
 
 90
-00:00:00,400 --> 00:00:00,600
+00:04:26,094 --> 00:04:29,542
 Looking around. Especially with a purchase of this kind.
 
 91
-00:00:00,400 --> 00:00:00,600
+00:04:29,542 --> 00:04:33,110
 You're talking about a lot of money.
 
 92
-00:00:00,400 --> 00:00:00,600
+00:04:33,110 --> 00:04:36,588
 We'll call Mrs. Martinelli and tell her to keep looking for us.
 
 93
-00:00:00,400 --> 00:00:00,600
+00:04:36,588 --> 00:04:41,589
 And I'll call Mr. Riley at the bank
 
 94
-00:00:00,400 --> 00:00:00,600
+00:04:41,589 --> 00:04:42,271
 and tell him we'll see him in a couple of months.
 
 95
-00:00:00,400 --> 00:00:00,600
+00:04:42,271 --> 00:04:44,616
 And if you ever need Dad or me to help you ...
 
 96
-00:00:00,400 --> 00:00:00,600
+00:04:44,616 --> 00:04:45,699
 We know.
 
 97
-00:00:00,400 --> 00:00:00,600
+00:04:45,699 --> 00:04:47,884
 You know we'll be there for you.
 
 98
-00:00:00,400 --> 00:00:03,400
+00:04:47,884 --> 00:04:47,884
 It's a Stewart tradition. We're a family.
