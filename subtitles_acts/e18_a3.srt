@@ -1,183 +1,183 @@
 1
-00:00:00,000 --> 00:00:02,930
+00:00:05,956 --> 00:00:17,390
 Ellen: …my slogan is”I care”. I care about people, not things, Vote for me, Ellen Stewart. I care. How was it?
 
 2
-00:00:00,000 --> 00:00:02,930
+00:00:17,390 --> 00:00:18,828
 Richard: You were terrific!
 
 3
-00:00:00,000 --> 00:00:02,930
+00:00:18,828 --> 00:00:20,846
 Ellen: Can I see it?
 
 4
-00:00:00,000 --> 00:00:02,930
+00:00:20,846 --> 00:00:24,046
 Richard: Sure.
 
 5
-00:00:00,000 --> 00:00:02,930
+00:00:24,046 --> 00:00:59,559
 Ellen: Hello. My name is Ellen Stewart, and I’m running for the open seat on the school board. My slogan is”I care”. What does the word care mean?…I care about people, not things. Vote for me, Ellen Stewart. I care.
 
 6
-00:00:00,000 --> 00:00:02,930
+00:00:59,559 --> 00:01:22,738
 Philip: I like it, but now what? How can we possibly get it on so Riverdale will see it and hear it?
 
 7
-00:00:00,000 --> 00:00:02,930
+00:01:22,738 --> 00:01:25,288
 Richard: Leave it to me.
 
 8
-00:00:00,000 --> 00:00:02,930
+00:01:25,288 --> 00:02:09,052
 Ellen: …I mean that when I say”I care”. I care about people, not things. Vote for me, Ellen Stewart. I care.
 
 9
-00:00:00,000 --> 00:00:02,930
+00:02:09,052 --> 00:02:12,030
 Marilyn: What happened?
 
 10
-00:00:00,000 --> 00:00:02,930
+00:02:12,030 --> 00:02:22,050
 Richard: Mom is now on television in every appliance store in Riverdale, except Hamlin's. He's a Boswell voter.
 
 11
-00:00:00,000 --> 00:00:02,930
+00:02:22,050 --> 00:02:24,633
 Philip: That’s a brilliant idea, Richard!
 
 12
-00:00:00,000 --> 00:00:02,930
+00:02:24,633 --> 00:02:27,576
 Grandpa: You inherited your father’s brains.
 
 13
-00:00:00,000 --> 00:00:02,930
+00:02:27,576 --> 00:02:31,229
 Philip: We got our brains from you, Day.
 
 14
-00:00:00,000 --> 00:00:02,930
+00:02:31,229 --> 00:02:45,788
 Richard: And guess what? I called channel five. Their TV news is going to cover it.”Housewife campaigns in appliance stores.”And I’ll bet some magazine will pick up the story, too.
 
 15
-00:00:00,000 --> 00:00:02,930
+00:02:45,788 --> 00:02:50,173
 Robbie: Mom, you’re going to win! I know it!
 
 16
-00:00:00,000 --> 00:00:02,930
+00:02:50,173 --> 00:03:10,112
 Philip: Hold it, Robbie! Just cool down. I know we’re getting some attention now, but in the end the voters will have to decide.
 
 17
-00:00:00,000 --> 00:00:02,930
+00:03:10,112 --> 00:03:18,878
 Grandpa: You’re going to win. Trust me!
 
 18
-00:00:00,000 --> 00:00:02,930
+00:03:18,878 --> 00:04:11,649
 Reporter: In the hotly contested race for the one seat on the Riverdale School Board, Mrs. Ellen Stewart has taken an early lead.
 
 19
-00:00:00,000 --> 00:00:02,930
+00:04:11,649 --> 00:04:17,476
 Robbie: She’s winning! Mom, you’re winning!
 
 20
-00:00:00,000 --> 00:00:02,930
+00:04:17,476 --> 00:04:29,349
 Reporter: Now returning to other local news…Riverdale High School beat its rival Horace Mann in baseball today…
 
 21
-00:00:00,000 --> 00:00:02,930
+00:04:29,349 --> 00:04:32,474
 Ellen: It’s too soon to know for certain.
 
 22
-00:00:00,000 --> 00:00:02,930
+00:04:32,474 --> 00:04:45,884
 Philip: You’re ahead. That’s better than being behind.
 
 23
-00:00:00,000 --> 00:00:02,930
+00:04:45,884 --> 00:04:48,862
 Reporter: More sports after this.
 
 24
-00:00:00,000 --> 00:00:02,930
+00:04:48,862 --> 00:05:06,852
 Ellen: It’s not over yet. Let’s just all calm down, and wait for the final results.
 
 25
-00:00:00,000 --> 00:00:02,930
+00:05:06,852 --> 00:05:12,686
 Grandpa: Ellen, why don’t you go out to the backyard and get some fresh air?
 
 26
-00:00:00,000 --> 00:00:02,930
+00:05:12,686 --> 00:05:25,335
 Ellen: Thank you, Grandpa. I need some.
 
 27
-00:00:00,000 --> 00:00:02,930
+00:05:25,335 --> 00:05:26,072
 Ellen: What happened?
 
 28
-00:00:00,000 --> 00:00:02,930
+00:05:26,072 --> 00:05:34,154
 Philip: You came very close, Ellen.
 
 29
-00:00:00,000 --> 00:00:02,930
+00:05:34,154 --> 00:05:53,319
 Grandpa: You lost by only a hundred and twenty-one votes.
 
 30
-00:00:00,000 --> 00:00:02,930
+00:05:53,319 --> 00:05:57,855
 Ellen: I lost.
 
 31
-00:00:00,000 --> 00:00:02,930
+00:05:57,855 --> 00:06:00,753
 Richard: You tried, Mom.
 
 32
-00:00:00,000 --> 00:00:02,930
+00:06:00,753 --> 00:06:21,922
 Marilyn: You lost by a very small number of votes.
 
 33
-00:00:00,000 --> 00:00:02,930
+00:06:21,922 --> 00:06:26,407
 Robbie: Only one hundred and twenty-one votes! I’m sorry, Mom.
 
 34
-00:00:00,000 --> 00:00:02,930
+00:06:26,407 --> 00:06:30,446
 Ellen: There just wasn’t enough time.
 
 35
-00:00:00,000 --> 00:00:02,930
+00:06:30,446 --> 00:06:51,258
 Philip: Look, you’ve made a very strong impressing on our community. You’ll have another chance next election.
 
 36
-00:00:00,000 --> 00:00:02,930
+00:06:51,258 --> 00:06:53,358
 Philip: Hello. Oh, yes, yes, Mr. Maxwell.
 
 37
-00:00:00,000 --> 00:00:02,930
+00:06:53,358 --> 00:06:57,914
 Ellen: Hello Mr. Maxwell.
 
 38
-00:00:00,000 --> 00:00:02,930
+00:06:57,914 --> 00:07:18,832
 Maxwell: How are you? I just called to tell you that you are very impressive. You lost the election, but you won the attention of the residents of Riverdale, of Boswell, and of me.
 
 39
-00:00:00,000 --> 00:00:02,930
+00:07:18,832 --> 00:07:28,667
 Ellen: Well, thank you, Mr. Maxwell. I appreciate your kind words. I needed that.
 
 40
-00:00:00,000 --> 00:00:02,930
+00:07:28,667 --> 00:07:39,697
 Maxwell: I hear Boswell wants to appoint you to a special arts committee. I’m sending over a reporter in the morning to interview you.
 
 41
-00:00:00,000 --> 00:00:02,930
+00:07:39,697 --> 00:07:49,540
 Ellen: You are?
 
 42
-00:00:00,000 --> 00:00:02,930
+00:07:49,540 --> 00:07:58,959
 Maxwell: I’m going to do an article on”Ellen Stewart-she cares.”Maybe we’ll all care now. Good-bye.
 
 43
-00:00:00,000 --> 00:00:02,930
+00:07:58,959 --> 00:08:01,108
 Ellen: Thank you-and good-bye.
 
 44
-00:00:00,000 --> 00:00:02,930
+00:08:01,108 --> 00:08:02,840
 Philip: What was that about?
 
 45
-00:00:00,000 --> 00:00:02,930
+00:08:02,840 --> 00:08:08,671
 Ellen: You were right, Philip. I did make a difference in town.
 
 46
-00:00:00,000 --> 00:00:02,930
+00:08:08,671 --> 00:08:11,671
 Robbie: And in this family.

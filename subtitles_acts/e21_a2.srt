@@ -1,387 +1,387 @@
 1
-00:00:58,530 --> 00:01:04,530
+00:00:16,740 --> 00:00:20,846
 Hello. Hello there.
 
 2
-00:01:04,530 --> 00:01:06,530
+00:00:20,846 --> 00:01:07,229
 Are you ready for lunch with your grandpa?
 
 3
-00:01:06,530 --> 00:01:12,530
+00:01:07,229 --> 00:01:11,471
 Oh! Hi, Grandpa. Yes, of course, I am, but my mind isn't.
 
 4
-00:01:12,530 --> 00:01:13,530
+00:01:11,471 --> 00:01:13,631
 What's the matter, Susan?
 
 5
-00:01:13,530 --> 00:01:15,530
+00:01:13,631 --> 00:01:15,489
 A real dilemma.
 
 6
-00:01:15,530 --> 00:01:17,530
+00:01:15,489 --> 00:01:17,427
 Does it have anything to do with you and Harry?
 
 7
-00:01:17,530 --> 00:01:21,530
+00:01:17,427 --> 00:01:21,389
 Yes, but I don't know where to start.
 
 8
-00:01:21,530 --> 00:01:27,530
+00:01:21,389 --> 00:01:26,921
 Maybe I can help. Tell me what it is, Susan.
 
 9
-00:01:27,530 --> 00:01:31,530
+00:01:26,921 --> 00:01:32,317
 Thanks, Grandpa. Please sit down.
 
 10
-00:01:31,530 --> 00:01:37,530
+00:01:32,317 --> 00:01:38,273
 Oh! Harry has been offered a job in Los Angeles.
 
 11
-00:01:37,530 --> 00:01:41,530
+00:01:38,273 --> 00:01:42,251
 Well, this is something to think about.
 
 12
-00:01:41,530 --> 00:01:45,530
+00:01:42,251 --> 00:01:45,829
 There are so many things to consider. There's Michelle.
 
 13
-00:01:45,530 --> 00:01:51,530
+00:01:45,829 --> 00:01:50,777
 I wonder if a move would be a bad thing for her. And my job.
 
 14
-00:01:51,530 --> 00:01:53,530
+00:01:50,777 --> 00:01:53,656
 I don't know if I can get a good job in Los Angeles.
 
 15
-00:01:53,530 --> 00:01:56,530
+00:01:53,656 --> 00:01:59,118
 And what about our family?
 
 16
-00:01:56,530 --> 00:02:00,530
+00:01:59,118 --> 00:02:01,398
 Can I tell you what I think?
 
 17
-00:02:00,530 --> 00:02:02,530
+00:02:01,398 --> 00:02:02,096
 Tell me.
 
 18
-00:02:02,530 --> 00:02:05,530
+00:02:02,096 --> 00:02:05,449
 I think that you're very successful
 
 19
-00:02:05,530 --> 00:02:10,530
+00:02:05,449 --> 00:02:11,030
 and that you have a fantastic reputation in the toy industry.
 
 20
-00:02:10,530 --> 00:02:13,530
+00:02:11,030 --> 00:02:14,008
 I think you could talk to Mr. Marchetta,
 
 21
-00:02:13,530 --> 00:02:15,530
+00:02:14,008 --> 00:02:15,259
 and I think
 
 22
-00:02:15,530 --> 00:02:19,530
+00:02:15,259 --> 00:02:19,964
 he could help you find a real good job in Los Angeles.
 
 23
-00:02:19,530 --> 00:02:22,530
+00:02:19,964 --> 00:02:22,942
 He was very helpful to me, remember?
 
 24
-00:02:22,530 --> 00:02:25,530
+00:02:22,942 --> 00:02:25,920
 I suppose I could call him.
 
 25
-00:02:25,530 --> 00:02:28,530
+00:02:25,920 --> 00:02:28,898
 But I'm not so sure that I want to leave New York,
 
 26
-00:02:28,530 --> 00:02:30,530
+00:02:28,898 --> 00:02:30,898
 you, and the rest of our family.
 
 27
-00:02:30,530 --> 00:02:32,530
+00:02:30,898 --> 00:02:32,101
 Well, I'm not going to kid you, Susan.
 
 28
-00:02:32,530 --> 00:02:33,530
+00:02:32,101 --> 00:02:33,451
 You know we'd all miss you.
 
 29
-00:02:33,530 --> 00:02:37,530
+00:02:33,451 --> 00:02:37,354
 But this should be your decision.
 
 30
-00:02:37,530 --> 00:02:41,530
+00:02:37,354 --> 00:02:41,370
 It's something that only you and Harry can work out.
 
 31
-00:02:41,530 --> 00:02:47,530
+00:02:41,370 --> 00:02:46,766
 If moving to L.A. is in Harry's best interest,
 
 32
-00:02:47,530 --> 00:02:50,530
+00:02:46,766 --> 00:02:51,224
 I have to do what I can do to support him.
 
 33
-00:02:50,530 --> 00:02:53,530
+00:02:51,224 --> 00:02:52,722
 In every marriage,
 
 34
-00:02:53,530 --> 00:02:56,530
+00:02:52,722 --> 00:02:57,700
 sacrifices have to be made by one partner from time to time.
 
 35
-00:02:56,530 --> 00:02:59,530
+00:02:57,700 --> 00:03:01,656
 And what about Michelle?
 
 36
-00:02:59,530 --> 00:03:02,530
+00:03:01,656 --> 00:03:03,856
 Well, what do you think?
 
 37
-00:03:02,530 --> 00:03:06,530
+00:03:03,856 --> 00:03:07,612
 I think Michelle is better off staying where she is.
 
 38
-00:03:06,530 --> 00:03:08,530
+00:03:07,612 --> 00:03:09,300
 What does she think?
 
 39
-00:03:08,530 --> 00:03:11,530
+00:03:09,300 --> 00:03:11,160
 I don't know for sure.
 
 40
-00:03:11,530 --> 00:03:12,530
+00:03:11,160 --> 00:03:12,922
 Well, you'll have to ask her.
 
 41
-00:03:12,530 --> 00:03:15,530
+00:03:12,922 --> 00:03:15,470
 I think I'm going to have a talk with Mr. Marchetta
 
 42
-00:03:15,530 --> 00:03:17,530
+00:03:15,470 --> 00:03:17,145
 and get his feelings about my leaving.
 
 43
-00:03:17,530 --> 00:03:20,530
+00:03:17,145 --> 00:03:20,603
 And about helping me find a job in Los Angeles.
 
 44
-00:03:20,530 --> 00:03:22,530
+00:03:20,603 --> 00:03:21,683
 Good idea.
 
 45
-00:03:22,530 --> 00:03:24,530
+00:03:21,683 --> 00:03:24,834
 I'll call him right now. No point in delaying.
 
 46
-00:03:24,530 --> 00:03:27,530
+00:03:24,834 --> 00:03:25,479
 Thanks, Grandpa.
 
 47
-00:03:27,530 --> 00:03:41,530
+00:03:25,479 --> 00:03:40,055
 Harry, it's the perfect job for you. You'll love it. Harry
 
 48
-00:03:41,530 --> 00:03:43,530
+00:03:40,055 --> 00:03:43,347
 It's a big decision for me, Bill.
 
 49
-00:03:43,530 --> 00:03:46,530
+00:03:43,347 --> 00:03:46,325
 And I have to discuss it with my wife.
 
 50
-00:03:46,530 --> 00:03:47,530
+00:03:46,325 --> 00:03:47,765
 I don't know if it's right for her.
 
 51
-00:03:47,530 --> 00:03:51,530
+00:03:47,765 --> 00:03:51,743
 She'll love it. It's a once-in-a-lifetime offer, Harry.
 
 52
-00:03:51,530 --> 00:03:53,530
+00:03:51,743 --> 00:03:53,608
 OK. Tell it to me again.
 
 53
-00:03:53,530 --> 00:03:55,530
+00:03:53,608 --> 00:03:55,259
 The company is Craft and Craft,
 
 54
-00:03:55,530 --> 00:03:57,530
+00:03:55,259 --> 00:03:58,237
 the biggest accounting company in the country.
 
 55
-00:03:57,530 --> 00:03:59,530
+00:03:58,237 --> 00:04:00,228
 I know the company well. It's big.
 
 56
-00:03:59,530 --> 00:04:01,530
+00:04:00,228 --> 00:04:01,215
 The biggest.
 
 57
-00:04:01,530 --> 00:04:05,530
+00:04:01,215 --> 00:04:17,257
 Yeah, yeah. The biggest. When do I have to let you know?
 
 58
-00:04:05,530 --> 00:04:09,530
+00:04:17,257 --> 00:04:24,727
 Talk it over. Think it over. Let me know by the end of the week.
 
 59
-00:04:09,530 --> 00:04:12,530
+00:04:24,727 --> 00:04:26,785
 When would we have to move?
 
 60
-00:04:12,530 --> 00:04:14,530
+00:04:26,785 --> 00:04:27,620
 As soon as possible.
 
 61
-00:04:14,530 --> 00:04:17,530
+00:04:27,620 --> 00:04:42,906
 I also have my daughter to consider.
 
 62
-00:04:17,530 --> 00:04:19,530
+00:04:42,906 --> 00:04:52,590
 I don't want to interrupt her school year.
 
 63
-00:04:19,530 --> 00:04:21,530
+00:04:52,590 --> 00:04:56,458
 Let me know by the end of the week.
 
 64
-00:04:21,530 --> 00:04:23,530
+00:04:56,458 --> 00:04:59,411
 It's a great opportunity for you, Harry.
 
 65
-00:04:23,530 --> 00:04:24,530
+00:04:59,411 --> 00:05:00,104
 Believe me.
 
 66
-00:04:24,530 --> 00:04:25,530
+00:05:00,104 --> 00:05:03,752
 I know.
 
 67
-00:04:25,530 --> 00:04:28,530
+00:05:03,752 --> 00:05:11,348
 Craft and Craft is the biggest in the country. Craft and Crraft
 
 68
-00:04:28,530 --> 00:04:41,530
+00:05:11,348 --> 00:05:15,664
 Yeah, I know. The biggest.
 
 69
-00:04:41,530 --> 00:04:46,530
+00:05:15,664 --> 00:05:21,620
 I think Michelle is asleep now. Let's talk.
 
 70
-00:04:46,530 --> 00:04:55,530
+00:05:21,620 --> 00:05:23,334
 I met with Bill York today.
 
 71
-00:04:55,530 --> 00:04:59,530
+00:05:23,334 --> 00:05:32,794
 And I talked with Mr. Marchetta. Did York make the offer?
 
 72
-00:04:59,530 --> 00:05:01,530
+00:05:32,794 --> 00:05:38,287
 Yup. He asked me if I want the job.
 
 73
-00:05:01,530 --> 00:05:03,530
+00:05:38,287 --> 00:05:40,737
 That's exciting, Harry. What was it?
 
 74
-00:05:03,530 --> 00:05:05,530
+00:05:40,737 --> 00:05:41,487
 A vice-presidency
 
 75
-00:05:05,530 --> 00:05:07,530
+00:05:41,487 --> 00:05:44,965
 with the biggest accounting company in the country--
 
 76
-00:05:07,530 --> 00:05:09,530
+00:05:44,965 --> 00:05:47,336
 Craft and Craft. Craft and Crraft。
 
 77
-00:05:09,530 --> 00:05:11,530
+00:05:47,336 --> 00:05:51,399
 Aren't you excited about that?
 
 78
-00:05:11,530 --> 00:05:14,530
+00:05:51,399 --> 00:05:54,606
 Sure I am. But there's so much more to consider.
 
 79
-00:05:14,530 --> 00:05:18,530
+00:05:54,606 --> 00:05:55,748
 I talked to Mr. Marchetta.
 
 80
-00:05:18,530 --> 00:05:20,530
+00:05:55,748 --> 00:06:00,893
 What did he say? Did you tell him about me?
 
 81
-00:05:20,530 --> 00:05:23,530
+00:06:00,893 --> 00:06:21,179
 Of course, Harry. I want what's best for you,
 
 82
-00:05:23,530 --> 00:05:26,530
+00:06:21,179 --> 00:06:24,586
 and I think I can get a good job
 
 83
-00:05:26,530 --> 00:05:27,530
+00:06:24,586 --> 00:06:25,871
 through Mr. Marchetta
 
 84
-00:05:27,530 --> 00:05:28,530
+00:06:25,871 --> 00:06:30,113
 in Los Angeles also.
 
 85
-00:05:28,530 --> 00:05:29,530
+00:06:30,113 --> 00:06:30,780
 You're kidding.
 
 86
-00:05:29,530 --> 00:05:30,530
+00:06:30,780 --> 00:06:52,038
 No, I'm not kidding.
 
 87
-00:05:30,530 --> 00:05:32,530
+00:06:52,038 --> 00:06:55,456
 I talked with him, and he understands completely.
 
 88
-00:05:32,530 --> 00:05:35,530
+00:06:55,456 --> 00:06:57,414
 He has a major toy buyer in Los Angeles,
 
 89
-00:05:35,530 --> 00:05:38,530
+00:06:57,414 --> 00:07:11,804
 and he's pretty sure that I can get a good job there.
 
 90
-00:05:38,530 --> 00:05:39,530
+00:07:11,804 --> 00:07:12,204
 Unbelievable!
 
 91
-00:05:39,530 --> 00:05:42,530
+00:07:12,204 --> 00:07:24,416
 But I think we should talk to Michelle about all of this.
 
 92
-00:05:42,530 --> 00:05:46,530
+00:07:24,416 --> 00:07:44,562
 You're right. We'll talk to her about it.
 
 93
-00:05:46,530 --> 00:05:50,530
+00:07:44,562 --> 00:07:49,654
 And how do you feel about taking the job in Los Angeles?
 
 94
-00:05:50,530 --> 00:05:52,530
+00:07:49,654 --> 00:08:02,949
 How should I feel?
 
 95
-00:05:52,530 --> 00:05:53,530
+00:08:02,949 --> 00:08:05,407
 It's the biggest company in the country.
 
 96
-00:05:53,530 --> 00:05:56,530
+00:08:05,407 --> 00:08:09,135
 Well, then you feel good about taking it?
 
 97
-00:05:56,530 --> 00:05:59,530
+00:08:09,135 --> 00:08:12,135
 Well ... I feel fine about it. Why shouldn't I?

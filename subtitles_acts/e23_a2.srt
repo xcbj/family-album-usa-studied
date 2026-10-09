@@ -1,331 +1,331 @@
 1
-00:00:57,530 --> 00:00:59,530
+00:00:56,581 --> 00:00:59,559
 There is a way, Malcolm.
 
 2
-00:00:59,530 --> 00:01:03,530
+00:00:59,559 --> 00:01:04,367
 We get our friends to roll their sleeves up and get to work.
 
 3
-00:01:03,530 --> 00:01:05,530
+00:01:04,367 --> 00:01:05,515
 It's certainly a good idea.
 
 4
-00:01:05,530 --> 00:01:07,530
+00:01:05,515 --> 00:01:08,493
 If I could take a look at the place,
 
 5
-00:01:07,530 --> 00:01:11,530
+00:01:08,493 --> 00:01:11,471
 I could probably tell what it requires to fix it up.
 
 6
-00:01:11,530 --> 00:01:15,530
+00:01:11,471 --> 00:01:15,065
 How much paint, how many hours of work ...
 
 7
-00:01:15,530 --> 00:01:19,530
+00:01:15,065 --> 00:01:18,976
 That's what I came to ask you to do, Malcolm.
 
 8
-00:01:19,530 --> 00:01:22,530
+00:01:18,976 --> 00:01:21,005
 If you would supervise the refurbishing,
 
 9
-00:01:22,530 --> 00:01:25,530
+00:01:21,005 --> 00:01:25,863
 I'll find the people to help do it.
 
 10
-00:01:25,530 --> 00:01:27,530
+00:01:25,863 --> 00:01:26,685
 I'll help too, Mr. Baker.
 
 11
-00:01:27,530 --> 00:01:30,530
+00:01:26,685 --> 00:01:30,386
 I can get some of my friends to go around the neighborhood
 
 12
-00:01:30,530 --> 00:01:32,530
+00:01:30,386 --> 00:01:31,957
 and collect the furniture we need.
 
 13
-00:01:32,530 --> 00:01:34,530
+00:01:31,957 --> 00:01:33,317
 I'll help.
 
 14
-00:01:34,530 --> 00:01:38,530
+00:01:33,317 --> 00:01:38,273
 Tomorrow. Yes. We'll meet tomorrow morning, right here.
 
 15
-00:01:38,530 --> 00:01:39,530
+00:01:38,273 --> 00:01:40,073
 Can we help?
 
 16
-00:01:39,530 --> 00:01:40,530
+00:01:40,073 --> 00:01:42,473
 I'd really like to.
 
 17
-00:01:40,530 --> 00:01:41,530
+00:01:42,473 --> 00:01:42,673
 Sure.
 
 18
-00:01:41,530 --> 00:01:44,530
+00:01:42,473 --> 00:01:44,229
 We might need you to come through with your friends, Robbie.
 
 19
-00:01:44,530 --> 00:01:47,530
+00:01:44,229 --> 00:01:47,029
 Not just to go around the neighborhood asking for furniture,
 
 20
-00:01:47,530 --> 00:01:49,530
+00:01:47,029 --> 00:01:49,487
 but to help with the paint job.
 
 21
-00:01:49,530 --> 00:01:52,530
+00:01:49,487 --> 00:01:52,810
 That's backbreaking work and may be too much for us.
 
 22
-00:01:52,530 --> 00:01:55,530
+00:01:52,810 --> 00:01:55,734
 I'll do it. I'll talk to them.
 
 23
-00:01:55,530 --> 00:01:59,530
+00:01:55,734 --> 00:01:59,118
 And tomorrow morning we'll all meet here to discuss the plan?
 
 24
-00:01:59,530 --> 00:02:18,530
+00:01:59,118 --> 00:02:19,964
 Tomorrow morning it is.
 
 25
-00:02:18,530 --> 00:02:26,530
+00:02:19,964 --> 00:02:31,876
 Come in, come in. Please, come in.
 
 26
-00:02:26,530 --> 00:02:36,530
+00:02:31,876 --> 00:02:36,140
 I'd like you to meet my friend Malcolm Stewart.
 
 27
-00:02:36,530 --> 00:02:38,530
+00:02:36,140 --> 00:02:38,683
 Malcolm, this is Joanne Thompson. Malcolm
 
 28
-00:02:38,530 --> 00:02:41,530
+00:02:38,683 --> 00:02:41,185
 Hello, Joanne. Nice to meet you.
 
 29
-00:02:41,530 --> 00:02:42,530
+00:02:41,185 --> 00:02:42,310
 My pleasure, Malcolm.
 
 30
-00:02:42,530 --> 00:02:46,530
+00:02:42,310 --> 00:02:45,455
 And this is Abe Lucas. You must remember Abe.
 
 31
-00:02:46,530 --> 00:02:47,530
+00:02:45,455 --> 00:02:49,266
 He ran the drugstore
 
 32
-00:02:47,530 --> 00:02:50,530
+00:02:49,266 --> 00:02:49,744
 and used to play drums with the jazz band on weekends.
 
 33
-00:02:50,530 --> 00:02:52,530
+00:02:49,744 --> 00:02:51,472
 Oh, sure I do. Hi, Abe.
 
 34
-00:02:52,530 --> 00:02:53,530
+00:02:51,472 --> 00:02:52,722
 Hello, Mr. Stewart.
 
 35
-00:02:53,530 --> 00:02:54,530
+00:02:52,722 --> 00:02:54,082
 Malcolm, please.
 
 36
-00:02:54,530 --> 00:02:55,530
+00:02:54,082 --> 00:02:55,700
 Hello, Malcolm.
 
 37
-00:02:55,530 --> 00:02:57,530
+00:02:55,700 --> 00:02:57,800
 Sit down, sit down. Have some coffee.
 
 38
-00:02:57,530 --> 00:03:01,530
+00:02:57,800 --> 00:03:01,656
 And I've got some delicious Danish pastry for you.
 
 39
-00:03:01,530 --> 00:03:04,530
+00:03:01,656 --> 00:03:04,634
 Where's your grandson Robbie and his friend Alexandra?
 
 40
-00:03:04,530 --> 00:03:06,530
+00:03:04,634 --> 00:03:07,612
 Weren't they going to be here this morning?
 
 41
-00:03:06,530 --> 00:03:08,530
+00:03:07,612 --> 00:03:10,589
 I thought so, too.
 
 42
-00:03:08,530 --> 00:03:12,530
+00:03:10,589 --> 00:03:12,989
 I'm surprised they're not here.
 
 43
-00:03:12,530 --> 00:03:16,530
+00:03:12,989 --> 00:03:16,545
 Robbie left early this morning to meet Alexandra. Robbie
 
 44
-00:03:16,530 --> 00:03:20,530
+00:03:16,545 --> 00:03:20,523
 Frankly, I thought they'd be here, but ...
 
 45
-00:03:20,530 --> 00:03:23,530
+00:03:20,523 --> 00:03:23,358
 It's OK. I'm sure they meant well,
 
 46
-00:03:23,530 --> 00:03:25,530
+00:03:23,358 --> 00:03:25,287
 but they probably had other things on their minds.
 
 47
-00:03:25,530 --> 00:03:29,530
+00:03:25,287 --> 00:03:28,457
 I understand you used to be in the construction business,
 
 48
-00:03:29,530 --> 00:03:30,530
+00:03:28,457 --> 00:03:30,281
 Malcolm. Malcolm。
 
 49
-00:03:30,530 --> 00:03:31,530
+00:03:30,281 --> 00:03:31,435
 I was, indeed.
 
 50
-00:03:31,530 --> 00:03:34,530
+00:03:31,435 --> 00:03:34,413
 I wonder if you would take a look at the old library
 
 51
-00:03:34,530 --> 00:03:37,530
+00:03:34,413 --> 00:03:37,391
 and make sure that it is in good condition
 
 52
-00:03:37,530 --> 00:03:40,530
+00:03:37,391 --> 00:03:40,369
 so that we don't have to worry about any structural problems.
 
 53
-00:03:40,530 --> 00:03:44,530
+00:03:40,369 --> 00:03:44,339
 When can I do that? I'd be happy to.
 
 54
-00:03:44,530 --> 00:03:46,530
+00:03:44,339 --> 00:03:46,818
 We've got permission to go inside the old building
 
 55
-00:03:46,530 --> 00:03:48,530
+00:03:46,818 --> 00:03:48,792
 during the week--
 
 56
-00:03:48,530 --> 00:03:50,530
+00:03:48,792 --> 00:03:50,663
 Tuesday or Wednesday.
 
 57
-00:03:50,530 --> 00:03:53,530
+00:03:50,663 --> 00:03:52,281
 That's fine with me. I can do it either day.
 
 58
-00:03:53,530 --> 00:03:55,530
+00:03:52,281 --> 00:03:55,259
 That would be very helpful.
 
 59
-00:03:55,530 --> 00:03:58,530
+00:03:55,259 --> 00:03:58,237
 I think the building just needs a good cleaning.
 
 60
-00:03:58,530 --> 00:04:00,530
+00:03:58,237 --> 00:04:01,515
 And a good paint job.
 
 61
-00:04:00,530 --> 00:04:02,530
+00:04:01,515 --> 00:04:03,315
 Then we have to furnish it.
 
 62
-00:04:02,530 --> 00:04:06,530
+00:04:03,315 --> 00:04:06,193
 I wish Robbie and Alexandra had come to this meeting.
 
 63
-00:04:06,530 --> 00:04:09,530
+00:04:06,193 --> 00:04:11,441
 They had some ideas about getting the place fixed up.
 
 64
-00:04:09,530 --> 00:04:12,530
+00:04:11,441 --> 00:04:13,127
 Perhaps they'll show up. In the meantime,
 
 65
-00:04:12,530 --> 00:04:16,530
+00:04:13,127 --> 00:04:18,105
 let me give you some additional thoughts and ideas I have.
 
 66
-00:04:16,530 --> 00:04:17,530
+00:04:18,105 --> 00:04:19,083
 OK.
 
 67
-00:04:17,530 --> 00:04:20,530
+00:04:19,083 --> 00:04:21,003
 Go ahead, Joanne.
 
 68
-00:04:20,530 --> 00:04:25,530
+00:04:21,003 --> 00:04:25,038
 As I said, mostly the building just needs a good cleaning.
 
 69
-00:04:25,530 --> 00:04:28,530
+00:04:25,038 --> 00:04:28,016
 This place can be developed
 
 70
-00:04:28,530 --> 00:04:32,530
+00:04:28,016 --> 00:04:32,354
 with one real intergenerational program.
 
 71
-00:04:32,530 --> 00:04:34,530
+00:04:32,354 --> 00:04:33,972
 That's an idea I like.
 
 72
-00:04:34,530 --> 00:04:35,530
+00:04:33,972 --> 00:04:35,097
 A community center
 
 73
-00:04:35,530 --> 00:04:38,530
+00:04:35,097 --> 00:04:38,236
 with the kinds of programs that fit everyone.
 
 74
-00:04:38,530 --> 00:04:41,530
+00:04:38,236 --> 00:04:41,608
 And programs that don't leave anyone out.
 
 75
-00:04:41,530 --> 00:04:43,530
+00:04:41,608 --> 00:04:43,237
 It's asking a lot.
 
 76
-00:04:43,530 --> 00:04:46,530
+00:04:43,237 --> 00:04:46,784
 But we can't do it without talking to the young people.
 
 77
-00:04:46,530 --> 00:04:48,530
+00:04:46,784 --> 00:04:48,862
 Finding out what they want.
 
 78
-00:04:48,530 --> 00:04:51,530
+00:04:48,862 --> 00:04:51,342
 If only Robbie and Alexandra were here.
 
 79
-00:04:51,530 --> 00:04:53,530
+00:04:51,342 --> 00:04:52,658
 Don't be upset, Malcolm.
 
 80
-00:04:53,530 --> 00:04:55,530
+00:04:52,658 --> 00:04:55,626
 We'll have a chance to talk to them later.
 
 81
-00:04:55,530 --> 00:04:57,530
+00:04:55,626 --> 00:04:57,796
 It's not like Robbie.
 
 82
-00:04:57,530 --> 00:05:00,530
+00:04:57,796 --> 00:05:00,774
 If he says he's going to be here, he's here.
 
 83
-00:05:00,530 --> 00:05:03,530
+00:05:00,774 --> 00:05:03,774
 I wonder what the problem is.
